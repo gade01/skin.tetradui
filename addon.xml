@@ -29,7 +29,7 @@
       <screenshot>resources/screenshot-10.png</screenshot>
     </assets>
     <news>[B]1.3.5[/B][CR]- Recode video calibration window[CR]- Bugfixes</news>
-    <description lang="en_GB">TetradUI is a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI.</description>
-    <summary lang="en_GB">TetradUI is a skin add-on for Kodi media center</summary>
+    <summary lang="en_GB">TetradUI is a skin Addon for Kodi media center</summary>
+    <description lang="en_GB">TetradUI is a skin add-on for Kodi media center. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by TeamUI.</description>
   </extension>
 </addon>
