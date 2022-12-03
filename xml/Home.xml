@@ -484,44 +484,69 @@
 						</item>
 						<item>
 							<label>14301</label>
-							<onclick condition="Container(9000).HasFocus(8)">ActivateWindow(TVChannels)</onclick>
-							<onclick condition="Container(9000).HasFocus(9)">ActivateWindow(RadioChannels)</onclick>
-							<icon>DefaultAddon.png</icon>
-							<visible>Container(9000).HasFocus(8) | Container(9000).HasFocus(9)</visible>
+							<onclick>ActivateWindow(TVChannels)</onclick>
+							<icon>button_icons/icon-pvrtv.png</icon>
+							<visible>Container(9000).HasFocus(8)</visible>
 						</item>
 						<item>
 							<label>22020</label>
-							<onclick condition="Container(9000).HasFocus(8)">ActivateWindow(TVGuide)</onclick>
-							<onclick condition="Container(9000).HasFocus(9)">ActivateWindow(RadioGuide)</onclick>
-							<icon>DefaultAddon.png</icon>
-							<visible>Container(9000).HasFocus(8) | Container(9000).HasFocus(9)</visible>
+							<onclick>ActivateWindow(TVGuide)</onclick>
+							<icon>button_icons/icon-pvrtv.png</icon>
+							<visible>Container(9000).HasFocus(8)</visible>
 						</item>
 						<item>
 							<label>19163</label>
-							<onclick condition="Container(9000).HasFocus(8)">ActivateWindow(TVRecordings)</onclick>
-							<onclick condition="Container(9000).HasFocus(9)">ActivateWindow(RadioRecordings)</onclick>
-							<icon>DefaultAddon.png</icon>
-							<visible>Container(9000).HasFocus(8) | Container(9000).HasFocus(9)</visible>
+							<onclick>ActivateWindow(TVRecordings)</onclick>
+							<icon>button_icons/icon-pvrtv.png</icon>
+							<visible>Container(9000).HasFocus(8)</visible>
 						</item>
 						<item>
 							<label>19138</label>
-							<onclick condition="Container(9000).HasFocus(8)">ActivateWindow(TVTimerRules)</onclick>
-							<onclick condition="Container(9000).HasFocus(9)">ActivateWindow(RadioTimerRules)</onclick>
-							<icon>DefaultAddon.png</icon>
-							<visible>Container(9000).HasFocus(8) | Container(9000).HasFocus(9)</visible>
+							<onclick>ActivateWindow(TVTimerRules)</onclick>
+							<icon>button_icons/icon-pvrtv.png</icon>
+							<visible>Container(9000).HasFocus(8)</visible>
 						</item>
 						<item>
 							<label>19040</label>
-							<onclick condition="Container(9000).HasFocus(8)">ActivateWindow(TVTimers)</onclick>
-							<onclick condition="Container(9000).HasFocus(9)">ActivateWindow(RadioTimers)</onclick>
-							<icon>DefaultAddon.png</icon>
-							<visible>Container(9000).HasFocus(8) | Container(9000).HasFocus(9)</visible>
+							<onclick>ActivateWindow(TVTimers)</onclick>
+							<icon>button_icons/icon-pvrtv.png</icon>
+							<visible>Container(9000).HasFocus(8)</visible>
+						</item>
+						<item>
+							<label>14301</label>
+							<onclick>ActivateWindow(RadioChannels)</onclick>
+							<icon>button_icons/icon-pvrradio.png</icon>
+							<visible>Container(9000).HasFocus(9)</visible>
+						</item>
+						<item>
+							<label>22020</label>
+							<onclick>ActivateWindow(RadioGuide)</onclick>
+							<icon>button_icons/icon-pvrradio.png</icon>
+							<visible>Container(9000).HasFocus(9)</visible>
+						</item>
+						<item>
+							<label>19163</label>
+							<onclick>ActivateWindow(RadioRecordings)</onclick>
+							<icon>button_icons/icon-pvrradio.png</icon>
+							<visible>Container(9000).HasFocus(9)</visible>
+						</item>
+						<item>
+							<label>19138</label>
+							<onclick>ActivateWindow(RadioTimerRules)</onclick>
+							<icon>button_icons/icon-pvrradio.png</icon>
+							<visible>Container(9000).HasFocus(9)</visible>
+						</item>
+						<item>
+							<label>19040</label>
+							<onclick>ActivateWindow(RadioTimers)</onclick>
+							<icon>button_icons/icon-pvrradio.png</icon>
+							<visible>Container(9000).HasFocus(9)</visible>
 						</item>
 						<item>
 							<label>137</label>
 							<onclick condition="Container(9000).HasFocus(8)">ActivateWindow(TVSearch)</onclick>
 							<onclick condition="Container(9000).HasFocus(9)">ActivateWindow(RadioSearch)</onclick>
-							<icon>DefaultAddon.png</icon>
+							<icon>DefaultAddonsSearch.png</icon>
 							<visible>Container(9000).HasFocus(8) | Container(9000).HasFocus(9)</visible>
 						</item>
 						<item>
