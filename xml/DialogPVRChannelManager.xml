@@ -94,40 +94,43 @@
 						<height>45</height>
 						<texture border="10">buttons/list-nofocus.png</texture>
 					</control>
-					<control type="image">
-						<left>5</left>
-						<top>5</top>
-						<width>35</width>
-						<height>35</height>
-						<aspectratio>keep</aspectratio>
-						<texture fallback="DefaultInProgressShows.png">$INFO[ListItem.Property(icon)]</texture>
-					</control>
-					<control type="label">
-						<left>50</left>
-						<width>370</width>
-						<height>45</height>
-						<font>font12</font>
-						<aligny>center</aligny>
-						<label>$INFO[ListItem.Property(Number),, - ]$INFO[ListItem.Property(Name)]</label>
-						<visible>!ListItem.Property(Changed)</visible>
-					</control>
-					<control type="label">
-						<left>50</left>
-						<width>370</width>
-						<height>45</height>
-						<font>font12</font>
-						<aligny>center</aligny>
-						<label>[B]$INFO[ListItem.Property(Number),, - ]$INFO[ListItem.Property(Name)][/B]</label>
-						<visible>ListItem.Property(Changed)</visible>
-					</control>
-					<control type="image">
-						<right>0</right>
-						<top>5</top>
-						<width>35</width>
-						<height>35</height>
-						<texture>OverlayLocked.png</texture>
-						<aspectratio>keep</aspectratio>
-						<visible>ListItem.Property(ParentalLocked)</visible>
+					<control type="group">
+						<animation effect="fade" start="100" end="50" time="200" condition="!ListItem.Property(ActiveChannel)">Conditional</animation>
+						<control type="image">
+							<left>5</left>
+							<top>5</top>
+							<width>35</width>
+							<height>35</height>
+							<aspectratio>keep</aspectratio>
+							<texture fallback="DefaultInProgressShows.png">$INFO[ListItem.Property(icon)]</texture>
+						</control>
+						<control type="label">
+							<left>50</left>
+							<width>370</width>
+							<height>45</height>
+							<font>font12</font>
+							<aligny>center</aligny>
+							<label>$INFO[ListItem.Property(Number),, - ]$INFO[ListItem.Property(Name)]</label>
+							<visible>!ListItem.Property(Changed)</visible>
+						</control>
+						<control type="label">
+							<left>50</left>
+							<width>370</width>
+							<height>45</height>
+							<font>font12</font>
+							<aligny>center</aligny>
+							<label>[B]$INFO[ListItem.Property(Number),, - ]$INFO[ListItem.Property(Name)][/B]</label>
+							<visible>ListItem.Property(Changed)</visible>
+						</control>
+						<control type="image">
+							<right>0</right>
+							<top>5</top>
+							<width>35</width>
+							<height>35</height>
+							<texture>OverlayLocked.png</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>ListItem.Property(ParentalLocked)</visible>
+						</control>
 					</control>
 				</itemlayout>
 				<focusedlayout height="45">
@@ -143,40 +146,43 @@
 						<visible>Control.HasFocus(20)</visible>
 						<texture border="10">buttons/list-focus.png</texture>
 					</control>
-					<control type="image">
-						<left>5</left>
-						<top>5</top>
-						<width>35</width>
-						<height>35</height>
-						<aspectratio>keep</aspectratio>
-						<texture fallback="DefaultInProgressShows.png">$INFO[ListItem.Property(icon)]</texture>
-					</control>
-					<control type="label">
-						<left>50</left>
-						<width>370</width>
-						<height>45</height>
-						<font>font12</font>
-						<aligny>center</aligny>
-						<label>$INFO[ListItem.Property(Number),, - ]$INFO[ListItem.Property(Name)]</label>
-						<visible>!ListItem.Property(Changed)</visible>
-					</control>
-					<control type="label">
-						<left>50</left>
-						<width>370</width>
-						<height>45</height>
-						<font>font12</font>
-						<aligny>center</aligny>
-						<label>[B]$INFO[ListItem.Property(Number),, - ]$INFO[ListItem.Property(Name)][/B]</label>
-						<visible>ListItem.Property(Changed)</visible>
-					</control>
-					<control type="image">
-						<right>0</right>
-						<top>5</top>
-						<width>35</width>
-						<height>35</height>
-						<texture>OverlayLocked.png</texture>
-						<aspectratio>keep</aspectratio>
-						<visible>ListItem.Property(ParentalLocked)</visible>
+					<control type="group">
+						<animation effect="fade" start="100" end="50" time="200" condition="!ListItem.Property(ActiveChannel)">Conditional</animation>
+						<control type="image">
+							<left>5</left>
+							<top>5</top>
+							<width>35</width>
+							<height>35</height>
+							<aspectratio>keep</aspectratio>
+							<texture fallback="DefaultInProgressShows.png">$INFO[ListItem.Property(icon)]</texture>
+						</control>
+						<control type="label">
+							<left>50</left>
+							<width>370</width>
+							<height>45</height>
+							<font>font12</font>
+							<aligny>center</aligny>
+							<label>$INFO[ListItem.Property(Number),, - ]$INFO[ListItem.Property(Name)]</label>
+							<visible>!ListItem.Property(Changed)</visible>
+						</control>
+						<control type="label">
+							<left>50</left>
+							<width>370</width>
+							<height>45</height>
+							<font>font12</font>
+							<aligny>center</aligny>
+							<label>[B]$INFO[ListItem.Property(Number),, - ]$INFO[ListItem.Property(Name)][/B]</label>
+							<visible>ListItem.Property(Changed)</visible>
+						</control>
+						<control type="image">
+							<right>0</right>
+							<top>5</top>
+							<width>35</width>
+							<height>35</height>
+							<texture>OverlayLocked.png</texture>
+							<aspectratio>keep</aspectratio>
+							<visible>ListItem.Property(ParentalLocked)</visible>
+						</control>
 					</control>
 				</focusedlayout>
 			</control>
