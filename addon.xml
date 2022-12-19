@@ -28,7 +28,7 @@
       <screenshot>resources/screenshot-09.png</screenshot>
       <screenshot>resources/screenshot-10.png</screenshot>
     </assets>
-    <news>[B]1.3.7[/B][CR]- Update home submenu icons</news>
+    <news>[B]1.3.7[/B][CR]- Update home submenu icons[CR]- PVR channel manager dialog will fade inactive channels</news>
     <summary lang="da_DK">TetradUI er et skin til Kodi mediecenter</summary>
     <summary lang="en_GB">TetradUI is a skin add-on for Kodi media center</summary>
     <summary lang="es_ES">TetradUI es un Add-on de skin para el centro multimedia Kodi</summary>

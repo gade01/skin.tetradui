@@ -1,5 +1,6 @@
 [B]Version 1.3.7[/B]
 - Update home submenu icons
+- PVR channel manager dialog will fade inactive channels
 
 [B]Version 1.3.6[/B]
 - Fix album and song information window play button
