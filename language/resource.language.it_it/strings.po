@@ -7,23 +7,23 @@ msgstr ""
 "Project-Id-Version: Kodi Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-11-06 06:44+0000\n"
-"Last-Translator: MaxmaxOk <max.martina@yahoo.com>\n"
+"PO-Revision-Date: 2023-04-17 00:27+0000\n"
+"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-tetradui/it_it/>\n"
 "Language: it_it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
 msgid "TetradUI is a skin add-on for Kodi media center"
-msgstr "TetradUI è un add-on della skin per Kodi media center"
+msgstr "TetradUI è uno skin add-on per Kodi media center"
 
 msgctxt "Addon Description"
 msgid "TetradUI is a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI."
-msgstr "TetradUI è un add-on della skin per Kodi media center. L'obiettivo con TetradUI è creare un omaggio moderno e fresco della classica interfaccia utente in stile blade che si trova nella dashboard originale di Xbox360. Visto anche nei lavori del Team Blackbolt e Jezz_X rispettivamente con i progetti MC360 e JX720. TetradUI è basato su JX720 di Jezz_X.[CR]Questo componente aggiuntivo è stato creato da Jezz_X e TeamUI."
+msgstr "TetradUI è uno skin add-on per Kodi media center. L'obiettivo con TetradUI è creare un omaggio moderno e fresco della classica interfaccia utente in stile blade che si trova nella dashboard originale di Xbox360. Visto anche nei lavori del Team Blackbolt e Jezz_X rispettivamente con i progetti MC360 e JX720. TetradUI è basato su JX720 di Jezz_X.[CR]Questo componente aggiuntivo è stato creato da Jezz_X e TeamUI."
 
 msgctxt "#31001"
 msgid "media"
@@ -48,7 +48,7 @@ msgstr "App"
 # empty strings from id 31006 to 31009
 msgctxt "#31010"
 msgid "TetradUI is a passion project made by TeamUI.[CR]It's a big project and it takes a [I]lot[/I] of effort to develop and maintain.[CR]Consider scanning this QR and make a donation to help keep this project healthy.[CR]Any amount helps greatly and is much appreciated."
-msgstr "TetradUI è un progetto di passione realizzato da TeamUI.[CR]È un grande progetto e ci vuole [I]molto[/I] sforzo per svilupparlo e mantenerlo.[CR]Considera la scansione di questo QR e fai una donazione per aiutare a mantenere questo progetto sano.[CR]Qualsiasi importo aiuta molto ed è molto apprezzato."
+msgstr "TetradUI è un progetto appassionato realizzato da TeamUI.[CR]È un grande progetto e richiede [I]molti[/I] sforzi per svilupparlo e mantenerlo.[CR]Considera l'idea di scansionare questo codice QR e fare una donazione per mantenere sano questo progetto.[CR]Qualsiasi importo aiuta molto ed è molto apprezzato."
 
 msgctxt "#31011"
 msgid "Applications"
@@ -72,7 +72,7 @@ msgstr "Attuale"
 
 msgctxt "#31102"
 msgid "Power Options"
-msgstr "Opzioni alimentazione"
+msgstr "Opzioni spegnimento"
 
 # empty strings from id 31103 to 31199
 msgctxt "#31200"
@@ -83,12 +83,10 @@ msgctxt "#31201"
 msgid "Page"
 msgstr "Pagina"
 
-#, fuzzy
 msgctxt "#31202"
 msgid "VIEW OPTIONS"
-msgstr "OPZIONI DI VISUALIZZAZIONE"
+msgstr "OPZIONI VISTA"
 
-#, fuzzy
 msgctxt "#31203"
 msgid "PLAYER OPTIONS"
 msgstr "OPZIONI LETTORE"
@@ -124,7 +122,7 @@ msgstr "proporzioni"
 
 msgctxt "#31217"
 msgid "Decoder"
-msgstr "Decoder"
+msgstr "Decodificatore"
 
 msgctxt "#31218"
 msgid "Codec"
@@ -156,11 +154,11 @@ msgstr "Seleziona programma"
 
 msgctxt "#31225"
 msgid "Toggle subtitle"
-msgstr "Attiva/disattiva sottotitoli"
+msgstr "Cambia traccia sottotitoli"
 
 msgctxt "#31226"
 msgid "Toggle audio stream"
-msgstr "Attiva/disattiva flusso audio"
+msgstr "Cambia traccia audio"
 
 msgctxt "#31227"
 msgid "available"
@@ -196,7 +194,7 @@ msgstr "Buffering"
 
 msgctxt "#31235"
 msgid "Now Playing"
-msgstr "In riproduzione"
+msgstr "Ora in riproduzione"
 
 msgctxt "#31236"
 msgid "End Time:"
@@ -208,7 +206,7 @@ msgstr "Benvenuto in TetradUI"
 
 msgctxt "#31238"
 msgid "Navigation is done using the top logo button.[CR]Using the skin setting it can either be placed top left or center.[CR][CR][B]Top logo button[/B][CR]Navigating between the blades is done using [I]left[/I] and [I]right[/I].[CR]Clicking the logo button will open a shortcuts sideblade.[CR][CR][B]Menu lists[/B][CR]If no widgets or submenus are present, you can navigate between the blades using [I]left[/I] and [I]right[/I] from the menu lists.[CR][CR][B]Widgets[/B][CR]If widgets are present, [I]left[/I] from the menu lists will take you to the widgets.[CR][I]Left[/I] or [I]right[/I] will take you back to the menu lists.[CR][CR][B]Submenu lists[/B][CR]If submenus are present, [I]right[/I] from the menu lists will take you there.[CR][I]Left[/I] from the submenus will take you back to the menu and [I]right[/I] will take you to the widgets.[CR]If no widgets are present, [I]right[/I] will switch blade."
-msgstr "La navigazione avviene utilizzando il pulsante con il logo in alto.[CR]Usando l'impostazione della skin può essere posizionato in alto a sinistra o al centro.[CR][CR][B]Pulsante logo in alto[/B][CR]La navigazione tra le lame viene eseguita utilizzando [I]sinistra[/I] e [I]destra[/I].[CR]Facendo clic sul pulsante del logo si apriranno delle scorciatoie alla lama laterale.[CR][CR][B]Elenchi di menu[/B][CR]Se non sono presenti widget o sottomenu, puoi navigare tra le lame utilizzando [I]sinistra[/I] e [I]destra[/I] dagli elenchi dei menu.[CR][CR][B]Widget[/B][CR]Se sono presenti widget, [I]sinistra[/I] dagli elenchi dei menu ti riporterà ai widget.[CR][I]Sinistra[/I] o [I]destra[/I] ti riporterà al liste di menu.[CR][CR][B]Elenchi di sottomenu[/B][CR]Se sono presenti sottomenu, [I]destra[/I] dagli elenchi di menu ti porterà lì.[CR][I]Sinistra[/I] dai sottomenu ti riporterà al menu e [I]destra[/I] ti riporterà ai widget.[CR]Se non sono presenti widget, [I]destra[/I] cambierà lama."
+msgstr "La navigazione avviene utilizzando il pulsante con il logo in alto.[CR]Usando l'impostazione della skin può essere posizionato in alto a sinistra o al centro.[CR][CR][B]Pulsante logo in alto[/B][CR]La navigazione tra le lame viene eseguita utilizzando [I]sinistra[/I] e [I]destra[/I].[CR]Facendo clic sul pulsante del logo si apriranno delle scorciatoie alla lama laterale.[CR][CR][B]Elenchi menu[/B][CR]Se non sono presenti widget o sottomenu, puoi navigare tra le lame utilizzando [I]sinistra[/I] e [I]destra[/I] dagli elenchi dei menu.[CR][CR][B]Widget[/B][CR]Se sono presenti widget, [I]sinistra[/I] dagli elenchi dei menu ti porterà ai widget.[CR][I]Sinistra[/I] o [I]destra[/I] ti riporterà agli elenchi dei menu.[CR][CR][B]Elenchi sottomenu[/B][CR]Se sono presenti sottomenu, [I]destra[/I] dagli elenchi dei menu ti porterà qui.[CR][I]Sinistra[/I] dai sottomenu ti riporterà al menu e [I]destra[/I] ti riporterà ai widget.[CR]Se non sono presenti widget, [I]destra[/I] cambierà lama."
 
 msgctxt "#31239"
 msgid "Never show again"
@@ -258,19 +256,18 @@ msgctxt "#31250"
 msgid "Poster Big"
 msgstr "Poster grande"
 
-#, fuzzy
 msgctxt "#31251"
 msgid "Thumb Info"
-msgstr "Informazioni Anteprima"
+msgstr "Info anteprime"
 
 # empty strings from id 31252 to 31299
 msgctxt "#31300"
 msgid "Please setup a music source!"
-msgstr "Per favore scegli una sorgente Musica!"
+msgstr "Imposta una sorgente per la musica!"
 
 msgctxt "#31301"
 msgid "Please setup[CR]movie and tv show sources!"
-msgstr "Imposta sorgenti[CR]di film e programmi TV!"
+msgstr "Imposta sorgenti[CR]per film e serie TV!"
 
 msgctxt "#31302"
 msgid "Working"
@@ -284,10 +281,9 @@ msgctxt "#31304"
 msgid "Memory Usage"
 msgstr "Utilizzo memoria"
 
-#, fuzzy
 msgctxt "#31305"
 msgid "Reset"
-msgstr "Resetta"
+msgstr "Reimposta"
 
 msgctxt "#31306"
 msgid "Power off"
@@ -338,79 +334,66 @@ msgstr "Basato su Arial (meglio per non inglese)"
 # empty strings from id 31392 to 31399
 msgctxt "#31400"
 msgid "Edit your display settings, including:[CR][CR]* Skin selection[CR]* View options[CR]* Screensaver[CR]* Date & time"
-msgstr "Modifica le impostazioni di visualizzazione, tra cui:[CR][CR]* Selezione skin[CR]* Opzioni di visualizzazione[CR]* Salvaschermo[CR]* Data e ora"
+msgstr "Modifica impostazioni di visualizzazione, tra cui:[CR][CR]* Selezione skin[CR]* Opzioni visualizzazione[CR]* Salvaschermo[CR]* Data e ora"
 
 # empty string with id 31401
 msgctxt "#31402"
 msgid "Watch and manage the logging of Kodi events, including:[CR][CR]* Failed video library scraping[CR]* Add-on updates[CR]* PVR activities"
 msgstr "Guarda e gestisci la registrazione degli eventi di Kodi, tra cui:[CR][CR]* Scraping della libreria video non riuscito[CR]* Aggiornamenti add-on[CR]* Attività PVR"
 
-#, fuzzy
 msgctxt "#31403"
 msgid "Configure network and sharing settings, including:[CR][CR]* Proxy & DNS[CR]* Samba file sharing[CR]* UPNP server[CR]* Web server[CR]* External app control"
-msgstr "Configura impostazioni di rete e condivisione, include:[CR][CR]* Proxy e DNS[CR]* Condivisione file Samba[CR]* Server UPNP[CR]* Web server[CR]* Controllo applicazioni esterne"
+msgstr "Configura impostazioni di rete e condivisione, tra cui:[CR][CR]* Proxy e DNS[CR]* Condivisione file Samba[CR]* Server UPNP[CR]* Server web[CR]* Controllo app esterne"
 
-#, fuzzy
 msgctxt "#31404"
 msgid "Important system settings, including:[CR][CR]* Hardware[CR]* Power saving[CR]* Input devices[CR]* Master user locking"
-msgstr "Impostazioni di sistema importanti, include:[CR][CR]* Hardware[CR]* Risparmio energetico[CR]* Dispositivi di immissione[CR]* Blocco utente principale"
+msgstr "Impostazioni di sistema importanti, tra cui:[CR][CR]* Hardware[CR]* Risparmio energetico[CR]* Dispositivi di immissione[CR]* Blocco utente principale"
 
-#, fuzzy
 msgctxt "#31405"
 msgid "Manage user profiles, including:[CR][CR]* Creating profiles[CR]* Deleting profiles[CR]* Changing user settings"
-msgstr "Gestione profili utente, include:[CR][CR]* Creazione profili[CR]* Eliminazione profili[CR]* Modifica delle impostazioni utente"
+msgstr "Gestisci profili utente, tra cui:[CR][CR]* Creazione profili[CR]* Eliminazione profili[CR]* Modifica impostazioni utente"
 
-#, fuzzy
 msgctxt "#31406"
 msgid "Change skin specific settings, including:[CR][CR]* Window backgrounds[CR]* Media view options[CR]* Image packs[CR]* Other misc. options"
-msgstr "Modifica le impostazioni specifiche della skin, tra cui:[CR][CR]* Sfondi delle finestre[CR]* Opzioni di visualizzazione multimediale[CR]* Pacchetti di immagini[CR]* Altre opzioni"
+msgstr "Modifica impostazioni specifiche della skin, tra cui:[CR][CR]* Sfondi delle finestre[CR]* Opzioni di visualizzazione multimediale[CR]* Pacchetti di immagini[CR]* Altre opzioni"
 
-#, fuzzy
 msgctxt "#31407"
 msgid "Configure PVR settings, including:[CR][CR]* Channels[CR]* Guide[CR]* Playback[CR]* Recordings[CR]* Reminders"
-msgstr "Configura le impostazioni PVR, tra cui:[CR][CR]* Canali[CR]* Guida[CR]* Riproduzione[CR]* Registrazioni[CR]* Promemoria"
+msgstr "Configura impostazioni PVR, tra cui:[CR][CR]* Canali[CR]* Guida[CR]* Riproduzione[CR]* Registrazioni[CR]* Promemoria"
 
-#, fuzzy
 msgctxt "#31408"
 msgid "Configure player settings, including:[CR][CR]* Library options[CR]* Hardware acceleration[CR]* Subtitles[CR]* DVD playback"
-msgstr "Configura le impostazioni del lettore, tra cui:[CR][CR]* Opzioni libreria[CR]* Accelerazione hardware[CR]* Sottotitoli[CR]* Riproduzione DVD"
+msgstr "Configura impostazioni del lettore, tra cui:[CR][CR]* Opzioni libreria[CR]* Accelerazione hardware[CR]* Sottotitoli[CR]* Riproduzione DVD"
 
-#, fuzzy
 msgctxt "#31409"
 msgid "Configure media settings, including:[CR][CR]* Library options[CR]* File management[CR]* Videos, music, pictures options"
-msgstr "Configura le impostazioni multimediali, tra cui:[CR][CR]* Opzioni libreria[CR]* Gestione file[CR]* Opzioni video, musica, immagini"
+msgstr "Configura impostazioni multimediali, tra cui:[CR][CR]* Opzioni libreria[CR]* Gestione file[CR]* Opzioni video, musica, immagini"
 
-#, fuzzy
 msgctxt "#31410"
 msgid "Information on Kodi and your hardware, including:[CR][CR]* Storage[CR]* Network[CR]* Video[CR]* Hardware"
 msgstr "Informazioni su Kodi e il tuo hardware, tra cui:[CR][CR]* Archiviazione[CR]* Rete[CR]* Video[CR]* Hardware"
 
-#, fuzzy
 msgctxt "#31411"
 msgid "Configure game settings, including:[CR][CR]* Gameplay options[CR]* RetroAchievements management"
-msgstr "Configura le impostazioni di gioco, tra cui:[CR][CR]* Opzioni di gioco[CR]* Gestione di RetroAchievements"
+msgstr "Configura impostazioni di gioco, tra cui:[CR][CR]* Opzioni di gioco[CR]* Gestione di RetroAchievements"
 
 # empty strings from id 31412 to 31458
-#, fuzzy
 msgctxt "#31460"
 msgid "Welcome to Kodi[CR]Please choose your profile and log in"
 msgstr "Benvenuto in Kodi[CR]Scegli il tuo profilo e accedi"
 
-#, fuzzy
 msgctxt "#31461"
 msgid "Install add-ons"
 msgstr "Installa add-on"
 
 # empty strings from id 31462 to 31479
-#, fuzzy
 msgctxt "#31480"
 msgid "[COLOR=orange][B]WARNING[/B] !![/COLOR][CR]Hiding all buttons will cause Navigation issues when switching between blades."
-msgstr "[COLOR=orange][B]WARNING[/B] !![/COLOR][CR]Nascondere tutti i pulsanti causerà problemi di navigazione quando si passa da una blade all'altra."
+msgstr "[COLOR=orange][B]ATTENZIONE[/B] !![/COLOR][CR]Nascondere tutti i pulsanti causerà problemi di navigazione durante il passaggio tra le lame."
 
-#, fuzzy
 msgctxt "#31481"
 msgid "These add-ons will improve the features and overall experience of the skin."
-msgstr "Questi componenti aggiuntivi miglioreranno le funzionalità e l'esperienza complessiva della skin."
+msgstr "Questi add-on miglioreranno le funzionalità e l'esperienza complessiva della skin."
 
 # empty strings from id 31482 to 31498
 msgctxt "#31499"
@@ -422,14 +405,13 @@ msgctxt "#31501"
 msgid "Featured"
 msgstr "In evidenza"
 
-#, fuzzy
 msgctxt "#31502"
 msgid "Blades"
-msgstr "Blade"
+msgstr "Lame"
 
 msgctxt "#31503"
 msgid "Image packs"
-msgstr "Pacchetti di immagini"
+msgstr "Pacchetti immagini"
 
 msgctxt "#31504"
 msgid "Change mode"
@@ -437,7 +419,7 @@ msgstr "Cambia modalità"
 
 msgctxt "#31505"
 msgid "Watch as 2D"
-msgstr "Guarda come 2D"
+msgstr "Guarda in 2D"
 
 msgctxt "#31506"
 msgid "Local subtitle available"
@@ -462,60 +444,59 @@ msgstr "Playlist video"
 # empty strings from id 31511 to 31517
 msgctxt "#31518"
 msgid "Game Settings Menu"
-msgstr "Menu impostazioni di gioco"
+msgstr "Menu impostazioni gioco"
 
 msgctxt "#31519"
 msgid "Show splash screen"
 msgstr "Mostra schermata iniziale"
 
-#, fuzzy
 msgctxt "#31520"
 msgid "Show now playing video in the background"
-msgstr "Mostra la riproduzione del video in background"
+msgstr "Mostra riproduzione video sullo sfondo"
 
 msgctxt "#31521"
 msgid "Show music visualization in the background"
-msgstr "Mostra la visualizzazione della musica in background"
+msgstr "Mostra visualizzazione musica sullo sfondo"
 
 msgctxt "#31522"
 msgid "Show media specific fanart in the background"
-msgstr "Mostra la fanart specifica per i media in background"
+msgstr "Mostra fanart contenuti multimediali specifici sullo sfondo"
 
 msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
-msgstr "Nascondi l'animazione della goccia di pioggia sullo sfondo"
+msgstr "Nascondi animazione della goccia di pioggia sullo sfondo"
 
 msgctxt "#31524"
 msgid "Don't blend background with fanart,visualization,video"
-msgstr "Non unire lo sfondo con fanart, visualizzazione, video"
+msgstr "Non fondere lo sfondo con fanart, visualizzazione, video"
 
 msgctxt "#31525"
 msgid "Select rating"
-msgstr "Scegli valutazione"
+msgstr "Seleziona valutazione"
 
 msgctxt "#31526"
 msgid "Animate all fanart backgrounds"
-msgstr "Animate all fanart backgrounds"
+msgstr "Anima tutti gli sfondi fanart"
 
 msgctxt "#31527"
 msgid "Animate fanart backgrounds for music playing"
-msgstr "Anima sfondi fanart per la riproduzione di musica"
+msgstr "Sfondi fanart animati durante l'ascolto di musica"
 
 msgctxt "#31528"
 msgid "Enable Artist Slideshow fanart backgrounds"
-msgstr "Abilita gli sfondi delle fanart per la presentazione dell'artista"
+msgstr "Abilita sfondi fanart per Artist Slideshow"
 
 msgctxt "#31529"
 msgid "Blur backgrounds"
-msgstr "Sfoca gli sfondi"
+msgstr "Sfoca sfondi"
 
 msgctxt "#31530"
 msgid "Fanart only"
-msgstr "Solo Fanart"
+msgstr "Solo fanart"
 
 msgctxt "#31531"
 msgid "Backgrounds only"
-msgstr "Solo gli sfondi"
+msgstr "Solo sfondi"
 
 msgctxt "#31532"
 msgid "Fanart and backgrounds"
@@ -524,11 +505,11 @@ msgstr "Fanart e sfondi"
 # empty strings from id 31533 to 31536
 msgctxt "#31537"
 msgid "Movie set information"
-msgstr "Informazioni sul set cinematografico"
+msgstr "Informazioni saghe cinematografiche"
 
 msgctxt "#31538"
 msgid "About"
-msgstr "Altro"
+msgstr "Informazioni su"
 
 msgctxt "#31539"
 msgid "Supported add-ons"
@@ -536,7 +517,7 @@ msgstr "Add-on supportati"
 
 msgctxt "#31540"
 msgid "Set Default Lyric fetching add-on for Music OSD"
-msgstr "Imposta il componente aggiuntivo predefinito per il recupero dei testi per l'OSD musicale"
+msgstr "Imposta add-on predefinito per i testi per l'OSD musica"
 
 # empty string with id 31543
 msgctxt "#31542"
@@ -549,7 +530,7 @@ msgstr "Nei cinema"
 
 msgctxt "#31544"
 msgid "Upcoming movies"
-msgstr "Film in arrivo"
+msgstr "Film in uscita"
 
 msgctxt "#31545"
 msgid "Unwatched movies"
@@ -569,7 +550,7 @@ msgstr "Livello impostazioni"
 
 msgctxt "#31554"
 msgid "Autologin"
-msgstr "Login automatico"
+msgstr "Accesso automatico"
 
 # empty strings from id 31012 to 31019
 #~ msgctxt "#31020"

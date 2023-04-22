@@ -245,7 +245,7 @@
 						<include>SkinSettingsRadioButtonCommonValues</include>
 						<label>$LOCALIZE[31317]</label>
 						<onclick>Skin.ToggleSetting(Blades_CenterLogoButton)</onclick>
-						<selected>Skin.HasSetting(Blades_CenterLogoButton)</selected>
+						<selected>!Skin.HasSetting(Blades_CenterLogoButton)</selected>
 					</control>
 					<control type="radiobutton" id="303">
 						<include>SkinSettingsRadioButtonCommonValues</include>
@@ -415,65 +415,62 @@
 					<top>75</top>
 					<width>790</width>
 					<height>500</height>
-					<control type="group">
-						<left>0</left>
-						<top>0</top>
-						<control type="image">
-							<width>370</width>
-							<height>280</height>
-							<colordiffuse>BBFFFFFF</colordiffuse>
-							<texture>back-fade.png</texture>
-						</control>
-						<control type="label">
-							<left>10</left>
-							<top>5</top>
-							<width>350</width>
-							<height>20</height>
-							<font>font12</font>
-							<align>center</align>
-							<aligny>center</aligny>
-							<textcolor>white</textcolor>
-							<label>$LOCALIZE[8]</label>
-						</control>
-						<control type="image">
-							<left>10</left>
-							<top>25</top>
-							<width>350</width>
-							<height>196</height>
-							<aspectratio>keep</aspectratio>
-							<texture background="true" fallback="backgrounds/weather.png">$INFO[Skin.String(Background_Weather)]</texture>
-							<bordertexture border="19,3,19,3">thumb-border.png</bordertexture>
-							<bordersize>18,2,18,2</bordersize>
-							<fadetime>IconCrossfadeTime</fadetime>
-						</control>
-						<control type="button" id="501">
-							<left>10</left>
-							<top>225</top>
-							<width>173</width>
-							<align>center</align>
-							<aligny>center</aligny>
-							<include>DialogButtonCommonValues</include>
-							<label>1024</label>
-							<onclick>Skin.SetImage(Background_Weather)</onclick>
-							<onleft>3</onleft>
-							<onright>502</onright>
-							<onup>521</onup>
-							<ondown>521</ondown>
-						</control>
-						<control type="button" id="502">
-							<left>189</left>
-							<top>225</top>
-							<width>173</width>
-							<align>center</align>
-							<aligny>center</aligny>
-							<include>DialogButtonCommonValues</include>
-							<label>31305</label>
-							<onclick>Skin.Reset(Background_Weather)</onclick>
-							<onleft>501</onleft>
-							<onright>511</onright>
-							<onup>522</onup>
-							<ondown>522</ondown>
-						</control>
+					<control type="image">
+						<width>370</width>
+						<height>280</height>
+						<colordiffuse>BBFFFFFF</colordiffuse>
+						<texture>back-fade.png</texture>
+					</control>
+					<control type="label">
+						<left>10</left>
+						<top>5</top>
+						<width>350</width>
+						<height>20</height>
+						<font>font12</font>
+						<align>center</align>
+						<aligny>center</aligny>
+						<textcolor>white</textcolor>
+						<label>$LOCALIZE[8]</label>
+					</control>
+					<control type="image">
+						<left>10</left>
+						<top>25</top>
+						<width>350</width>
+						<height>196</height>
+						<aspectratio>keep</aspectratio>
+						<texture background="true">$VAR[Background_Weather]</texture>
+						<bordertexture border="19,3,19,3" infill="false">thumb-border.png</bordertexture>
+						<bordersize>18,2,18,2</bordersize>
+						<fadetime>IconCrossfadeTime</fadetime>
+					</control>
+					<control type="button" id="501">
+						<left>10</left>
+						<top>225</top>
+						<width>173</width>
+						<align>center</align>
+						<aligny>center</aligny>
+						<include>DialogButtonCommonValues</include>
+						<label>1024</label>
+						<onclick>Skin.SetImage(Background_Weather)</onclick>
+						<onleft>3</onleft>
+						<onright>502</onright>
+						<onup>521</onup>
+						<ondown>521</ondown>
+					</control>
+					<control type="button" id="502">
+						<left>189</left>
+						<top>225</top>
+						<width>173</width>
+						<align>center</align>
+						<aligny>center</aligny>
+						<include>DialogButtonCommonValues</include>
+						<label>31305</label>
+						<onclick>Skin.Reset(Background_Weather)</onclick>
+						<onclick>ActivateWindow(1107)</onclick>
+						<onleft>501</onleft>
+						<onright>511</onright>
+						<onup>522</onup>
+						<ondown>522</ondown>
 					</control>
 					<control type="group">
 						<left>390</left>
@@ -501,7 +498,7 @@
 							<width>350</width>
 							<height>196</height>
 							<aspectratio>keep</aspectratio>
-							<texture background="true" fallback="backgrounds/apps.png">$INFO[Skin.String(Background_Apps)]</texture>
+							<texture background="true">$VAR[Background_Apps]</texture>
 							<bordertexture border="19,3,19,3">thumb-border.png</bordertexture>
 							<bordersize>18,2,18,2</bordersize>
 							<fadetime>IconCrossfadeTime</fadetime>
@@ -561,7 +558,7 @@
 							<width>350</width>
 							<height>196</height>
 							<aspectratio>keep</aspectratio>
-							<texture background="true" fallback="backgrounds/media.png">$INFO[Skin.String(Background_Media)]</texture>
+							<texture background="true">$VAR[Background_Media]</texture>
 							<bordertexture border="19,3,19,3">thumb-border.png</bordertexture>
 							<bordersize>18,2,18,2</bordersize>
 							<fadetime>IconCrossfadeTime</fadetime>
@@ -621,7 +618,7 @@
 							<width>350</width>
 							<height>196</height>
 							<aspectratio>keep</aspectratio>
-							<texture background="true" fallback="backgrounds/system.png">$INFO[Skin.String(Background_System)]</texture>
+							<texture background="true">$VAR[Background_System]</texture>
 							<bordertexture border="19,3,19,3">thumb-border.png</bordertexture>
 							<bordersize>18,2,18,2</bordersize>
 							<fadetime>IconCrossfadeTime</fadetime>

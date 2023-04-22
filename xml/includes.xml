@@ -24,8 +24,8 @@
 
 	<include name="HomeLogoButton">
 		<control type="group">
-			<animation effect="slide" end="445.5,0" condition="Skin.HasSetting(Blades_CenterLogoButton)">Conditional</animation>
-			<animation effect="slide" end="105,0" condition="Skin.HasSetting(Blades_CenterLogoButton) + Window.IsVisible(LoginScreen)">Conditional</animation>
+			<animation effect="slide" end="445.5,0" condition="!Skin.HasSetting(Blades_CenterLogoButton)">Conditional</animation>
+			<animation effect="slide" end="105,0" condition="!Skin.HasSetting(Blades_CenterLogoButton) + Window.IsVisible(LoginScreen)">Conditional</animation>
 			<control type="button" id="9050">
 				<left>-8</left>
 				<top>13</top>
@@ -303,7 +303,7 @@
 			<height>720</height>
 			<texture colordiffuse="77ffffff">black-back.png</texture>
 			<include>VisibleFadeEffect</include>
-			<visible>Window.IsActive(1103) | Window.IsActive(1105) | Window.IsActive(1106) | Window.IsActive(ShutdownMenu) | [!Window.IsVisible(Weather) + ControlGroup(9000).HasFocus] | Window.IsActive(DialogSelect.xml) | Window.IsActive(DialogAddonInfo.xml) | Window.IsActive(DialogAddonSettings.xml) | Window.IsActive(DialogConfirm.xml) | Window.IsActive(DialogContextMenu.xml) | Window.IsActive(DialogFavourites.xml) | Window.IsActive(DialogKeyboard.xml) | Window.IsActive(DialogMediaSource.xml) | Window.IsActive(DialogMusicInfo.xml) | Window.IsActive(DialogNumeric.xml) | Window.IsActive(DialogPictureInfo.xml) | Window.IsActive(DialogPVRChannelManager.xml) | Window.IsActive(DialogPVRGroupManager.xml) | Window.IsActive(DialogPVRGuideSearch.xml) | Window.IsActive(DialogPVRInfo.xml) | Window.IsActive(DialogSettings.xml) | Window.IsActive(DialogTextViewer.xml) | Window.IsActive(DialogVideoInfo.xml) | Window.IsActive(FileBrowser.xml) | Window.IsActive(GameOSD.xml) | Window.IsActive(SmartPlaylistEditor.xml) | Window.IsActive(SmartPlaylistRule.xml) | Window.IsActive(script-RSS_Editor.xml)</visible>
+			<visible>Window.IsActive(1103) | Window.IsActive(1105) | Window.IsActive(1106) | Window.IsActive(1107) | Window.IsActive(ShutdownMenu) | [!Window.IsVisible(Weather) + ControlGroup(9000).HasFocus] | Window.IsActive(DialogSelect.xml) | Window.IsActive(DialogAddonInfo.xml) | Window.IsActive(DialogAddonSettings.xml) | Window.IsActive(DialogConfirm.xml) | Window.IsActive(DialogContextMenu.xml) | Window.IsActive(DialogFavourites.xml) | Window.IsActive(DialogKeyboard.xml) | Window.IsActive(DialogMediaSource.xml) | Window.IsActive(DialogMusicInfo.xml) | Window.IsActive(DialogNumeric.xml) | Window.IsActive(DialogPictureInfo.xml) | Window.IsActive(DialogPVRChannelManager.xml) | Window.IsActive(DialogPVRGroupManager.xml) | Window.IsActive(DialogPVRGuideSearch.xml) | Window.IsActive(DialogPVRInfo.xml) | Window.IsActive(DialogSettings.xml) | Window.IsActive(DialogTextViewer.xml) | Window.IsActive(DialogVideoInfo.xml) | Window.IsActive(FileBrowser.xml) | Window.IsActive(GameOSD.xml) | Window.IsActive(SmartPlaylistEditor.xml) | Window.IsActive(SmartPlaylistRule.xml) | Window.IsActive(script-RSS_Editor.xml)</visible>
 		</control>
 	</include>
 	<include name="SortAscendingButton">
@@ -315,7 +315,7 @@
 		<include>ButtonCommonValues</include>
 	</include>
 	<include name="WeatherLabelCommonValues">
-		<width>140</width>
+		<width>200</width>
 		<height>30</height>
 		<font>font13</font>
 		<align>right</align>
@@ -575,7 +575,7 @@
 		<textcolor>white</textcolor>
 		<shadowcolor>black</shadowcolor>
 		<include>VisibleFadeEffect</include>
-		<animation effect="slide" end="70,0" condition="Control.IsVisible(9050) + !Skin.HasSetting(Blades_CenterLogoButton)">Conditional</animation>
+		<animation effect="slide" end="70,0" condition="Control.IsVisible(9050) + Skin.HasSetting(Blades_CenterLogoButton)">Conditional</animation>
 		<visible>!Window.IsVisible(extendedprogressdialog)</visible>
 	</include>
 	<include name="DialogHeaderTextCommons">

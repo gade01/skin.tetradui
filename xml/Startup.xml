@@ -22,7 +22,16 @@
 			<width>1280</width>
 			<height>720</height>
 			<texture background="true" fallback="backgrounds/media.png">$INFO[Skin.String(Background_Media)]</texture>
-			<animation effect="fade" start="100" end="60" time="200" condition="[!String.IsEmpty(ListItem.Art(fanart)) + !Skin.HasSetting(Back_Fanart)] | [Player.HasVideo + !Skin.HasSetting(Back_Video)] | [Player.HasAudio + !Skin.HasSetting(Back_Vis)]">Conditional</animation>
+			<animation effect="fade" start="100" end="60" time="200" condition="!Skin.HasSetting(Back_Fanart)">Conditional</animation>
+			<visible>Skin.HasSetting(UseDefaultBackground2)</visible>
+		</control>
+		<control type="image">
+			<description>Background Media</description>
+			<width>1280</width>
+			<height>720</height>
+			<texture background="true" fallback="backgrounds/media2.png">$INFO[Skin.String(Background_Media)]</texture>
+			<animation effect="fade" start="100" end="60" time="200" condition="!Skin.HasSetting(Back_Fanart)">Conditional</animation>
+			<visible>!Skin.HasSetting(UseDefaultBackground2)</visible>
 		</control>
 		<control type="group">
 			<visible>!Skin.HasSetting(ShowSplashScreen)</visible>

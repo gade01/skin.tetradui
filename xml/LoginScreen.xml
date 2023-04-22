@@ -7,7 +7,7 @@
 			<top>-95</top>
 			<control type="image">
 				<description>Background</description>
-				<left>11</left>
+				<left>5</left>
 				<width>68</width>
 				<height>910</height>
 				<texture>background-overlay-blackwash-left-ws.png</texture>
@@ -21,8 +21,8 @@
 			</control>
 			<control type="image">
 				<description>Background</description>
-				<left>79</left>
-				<width>1136</width>
+				<left>73</left>
+				<width>1142</width>
 				<height>910</height>
 				<texture>background-overlay-blackwash-centertile-ws.png</texture>
 			</control>

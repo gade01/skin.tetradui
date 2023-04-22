@@ -425,4 +425,24 @@
 		<value condition="Skin.HasSetting(BlurFanart) + !String.IsEqual(Window(home).Property(FIVE_daemon_set),None) + !String.IsEmpty(Window(home).Property(ImageFilterFIVE))">$INFO[Window(home).Property(ImageFilterFIVE)]</value>
 		<value>$INFO[ListItem.Art(fanart)]</value>
 	</variable>
+	<variable name="Background_Weather">
+		<value condition="!String.IsEmpty(Skin.String(Background_Weather))">$INFO[Skin.String(Background_Weather)]</value>
+		<value condition="Skin.HasSetting(UseDefaultBackground2)">backgrounds/weather.png</value>
+		<value>backgrounds/weather2.png</value>
+	</variable>
+	<variable name="Background_Apps">
+		<value condition="!String.IsEmpty(Skin.String(Background_Apps))">$INFO[Skin.String(Background_Apps)]</value>
+		<value condition="Skin.HasSetting(UseDefaultBackground2)">backgrounds/apps.png</value>
+		<value>backgrounds/apps2.png</value>
+	</variable>
+	<variable name="Background_Media">
+		<value condition="!String.IsEmpty(Skin.String(Background_Media))">$INFO[Skin.String(Background_Media)]</value>
+		<value condition="Skin.HasSetting(UseDefaultBackground2)">backgrounds/media.png</value>
+		<value>backgrounds/media2.png</value>
+	</variable>
+	<variable name="Background_System">
+		<value condition="!String.IsEmpty(Skin.String(Background_System))">$INFO[Skin.String(Background_System)]</value>
+		<value condition="Skin.HasSetting(UseDefaultBackground2)">backgrounds/system.png</value>
+		<value>backgrounds/system2.png</value>
+	</variable>
 </includes>

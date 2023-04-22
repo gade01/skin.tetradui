@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: Kodi Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-10-28 19:44+0000\n"
-"Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
+"PO-Revision-Date: 2023-02-21 03:15+0000\n"
+"Last-Translator: José Antonio Alvarado <jalvarado0.eses@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-tetradui/es_es/>\n"
 "Language: es_es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
 msgid "TetradUI is a skin add-on for Kodi media center"
@@ -23,7 +23,7 @@ msgstr "TetradUI es un Add-on de skin para el centro multimedia Kodi"
 
 msgctxt "Addon Description"
 msgid "TetradUI is a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI."
-msgstr "TetradUI es un Add-on de skin para Kodi. El objetivo de TetradUI es crear un homenaje fresco y moderno de las IU clásicas encontradas en el panel original de Xbox360. También vistas en los trabajos de Team Blackbolt y Jezz_X con los proyectos MC360 y JX720 respectivamente. TetradUI esta basado en JX720 de Jezz_X.[CR] Este add-on fué creado por Jezz_X y TeamUI."
+msgstr "TetradUI es un Add-on de skin para Kodi. El objetivo de TetradUI es crear un homenaje fresco y moderno de las IU clásicas encontradas en el panel original de Xbox360. También vistas en los trabajos de Team Blackbolt y Jezz_X con los proyectos MC360 y JX720 respectivamente. TetradUI esta basado en JX720 de Jezz_X.[CR] Este Add-on fue creado por Jezz_X y TeamUI."
 
 msgctxt "#31001"
 msgid "media"
@@ -157,7 +157,7 @@ msgstr "Cambiar subtítulos"
 
 msgctxt "#31226"
 msgid "Toggle audio stream"
-msgstr "Cambiar canal de audio"
+msgstr "Activar canal de audio"
 
 msgctxt "#31227"
 msgid "available"
@@ -189,7 +189,7 @@ msgstr "RW"
 
 msgctxt "#31234"
 msgid "Buffering"
-msgstr "Acumulando Bufer"
+msgstr "Almacenamiento del Buffer"
 
 msgctxt "#31235"
 msgid "Now Playing"
@@ -270,7 +270,7 @@ msgstr "¡Por favor, configure[CR]los origenes de películas y series de TV!"
 
 msgctxt "#31302"
 msgid "Working"
-msgstr "Procesando"
+msgstr "Trabajando"
 
 msgctxt "#31303"
 msgid "Last logged on"
@@ -294,7 +294,7 @@ msgstr "Terminar Kodi"
 
 msgctxt "#31309"
 msgid "Hide Button - "
-msgstr "Ocultar Boton - "
+msgstr "Ocultar Botón - "
 
 msgctxt "#31313"
 msgid "No Weather add-on enabled go to Settings/Weather to enable weather forecast"
@@ -310,7 +310,7 @@ msgstr "Instalar add-ons"
 
 msgctxt "#31316"
 msgid "Search add-ons"
-msgstr "Buscar Add-ons"
+msgstr "Buscar add-ons"
 
 msgctxt "#31317"
 msgid "Center top logo button"
@@ -331,48 +331,48 @@ msgstr "Basado en Arial (mejor para No-Inglés)"
 # empty strings from id 31392 to 31399
 msgctxt "#31400"
 msgid "Edit your display settings, including:[CR][CR]* Skin selection[CR]* View options[CR]* Screensaver[CR]* Date & time"
-msgstr ""
+msgstr "Edita los ajustes de interfaz, incluyendo:[CR[CR]* Seleccion de skin[CR]* Opciones de vista[CR]* Salvapantallas[CR]* Fecha y hora"
 
 # empty string with id 31401
 msgctxt "#31402"
 msgid "Watch and manage the logging of Kodi events, including:[CR][CR]* Failed video library scraping[CR]* Add-on updates[CR]* PVR activities"
-msgstr ""
+msgstr "Muestra y gestiona el registro de eventos de Kodi, incluyendo:[CR][CR]* Fallo en la extracción de la biblioteca de vídeo[CR]* Actualizaciones de add-on[CR]* Actividades de PVR"
 
 msgctxt "#31403"
 msgid "Configure network and sharing settings, including:[CR][CR]* Proxy & DNS[CR]* Samba file sharing[CR]* UPNP server[CR]* Web server[CR]* External app control"
-msgstr ""
+msgstr "Configura los ajustes de red y comparticion, incuyendo:[CR][CR]* Proxy y DNS[CR]* Protocolo Samba[CR]* Servidor UPNP[CR]* Servidor web[CR]* Control por aplicación externa"
 
 msgctxt "#31404"
 msgid "Important system settings, including:[CR][CR]* Hardware[CR]* Power saving[CR]* Input devices[CR]* Master user locking"
-msgstr ""
+msgstr "Ajustes de sistema importanes, incluyendo:[CR][CR]* Hardware[CR]* Ahorro de energia[CR]* Dispositivos de entrada[CR]* Bloqueo de usuario maestro"
 
 msgctxt "#31405"
 msgid "Manage user profiles, including:[CR][CR]* Creating profiles[CR]* Deleting profiles[CR]* Changing user settings"
-msgstr ""
+msgstr "Gestiona los perfiles de usuario, incluyendo:[CR][CR]* Crear perfiles[CR]* Eliminar perfiles[CR]* Cambiar ajustes de usuario"
 
 msgctxt "#31406"
 msgid "Change skin specific settings, including:[CR][CR]* Window backgrounds[CR]* Media view options[CR]* Image packs[CR]* Other misc. options"
-msgstr ""
+msgstr "Cambia los ajustes específicos de la skin, incluyendo:[CR][CR]* Fondos de pantalla[CR]* Opciones de visualizacion de contenidos[CR]* Packs de imágenes[CR]* Otras opciones"
 
 msgctxt "#31407"
 msgid "Configure PVR settings, including:[CR][CR]* Channels[CR]* Guide[CR]* Playback[CR]* Recordings[CR]* Reminders"
-msgstr ""
+msgstr "Configura los ajustes de PVR, incluyendo:[CR][CR]* Canales[CR]* Guía[CR]* Reproducción[CR]* Grabaciones[CR]* Recordatorios"
 
 msgctxt "#31408"
 msgid "Configure player settings, including:[CR][CR]* Library options[CR]* Hardware acceleration[CR]* Subtitles[CR]* DVD playback"
-msgstr ""
+msgstr "Configura los ajustes del reproductor, incluyendo:[CR][CR]* Opciones de la colección[CR]* Aceleración por hardware[CR]* Subtítulos[CR]* Reproducción de DVD"
 
 msgctxt "#31409"
 msgid "Configure media settings, including:[CR][CR]* Library options[CR]* File management[CR]* Videos, music, pictures options"
-msgstr ""
+msgstr "Configura los ajustes del contenido, incluyendo:[CR][CR]* Opciones de la colección[CR]* Gestión de archivos[CR]* Opciones de vídeos, música, fotos"
 
 msgctxt "#31410"
 msgid "Information on Kodi and your hardware, including:[CR][CR]* Storage[CR]* Network[CR]* Video[CR]* Hardware"
-msgstr ""
+msgstr "Información de Kodi y del hardware, incluyendo:[CR][CR]* Almacenamiento[CR]* Red[CR]* Vídeo[CR]* Hardware"
 
 msgctxt "#31411"
 msgid "Configure game settings, including:[CR][CR]* Gameplay options[CR]* RetroAchievements management"
-msgstr ""
+msgstr "Configura los ajustes de juego, incluyendo:[CR][CR]* Opciones de controladores[CR]* Gestión de RetroAchievements"
 
 msgctxt "#31460"
 msgid "Welcome to Kodi[CR]Please choose your profile and log in"
@@ -385,11 +385,11 @@ msgstr "Instalar add-ons"
 # empty strings from id 31462 to 31479
 msgctxt "#31480"
 msgid "[COLOR=orange][B]WARNING[/B] !![/COLOR][CR]Hiding all buttons will cause Navigation issues when switching between blades."
-msgstr ""
+msgstr "[COLOR=orange]¡¡[B]ATENCIÓN[/B]!![/COLOR]Ocultar todos los botones puede causar problemas de navegación al cambiar entre hojas."
 
 msgctxt "#31481"
 msgid "These add-ons will improve the features and overall experience of the skin."
-msgstr ""
+msgstr "Estos add-ons mejorarán las opciones y la experiencia global de este skin."
 
 # empty strings from id 31482 to 31498
 msgctxt "#31499"
@@ -403,11 +403,11 @@ msgstr "Destacados"
 
 msgctxt "#31502"
 msgid "Blades"
-msgstr ""
+msgstr "Hojas"
 
 msgctxt "#31503"
 msgid "Image packs"
-msgstr ""
+msgstr "Packs de imágenes"
 
 msgctxt "#31504"
 msgid "Change mode"
@@ -431,7 +431,7 @@ msgstr "Buscar en YouTube"
 
 msgctxt "#31509"
 msgid "Search add-ons"
-msgstr "Buscar Add-ons"
+msgstr "Buscar add-ons"
 
 msgctxt "#31510"
 msgid "Video playlist"
@@ -444,7 +444,7 @@ msgstr "Menú de Ajustes de Juegos"
 
 msgctxt "#31519"
 msgid "Show splash screen"
-msgstr ""
+msgstr "Mostrar pantalla de presentación"
 
 msgctxt "#31520"
 msgid "Show now playing video in the background"
@@ -472,15 +472,15 @@ msgstr "Seleccionar valoración"
 
 msgctxt "#31526"
 msgid "Animate all fanart backgrounds"
-msgstr ""
+msgstr "Animar todos los fondos fanart"
 
 msgctxt "#31527"
 msgid "Animate fanart backgrounds for music playing"
-msgstr ""
+msgstr "Animar los fondos fanart al reproducir música"
 
 msgctxt "#31528"
 msgid "Enable Artist Slideshow fanart backgrounds"
-msgstr ""
+msgstr "Activar fondos fanart Presentación de Intérpretes"
 
 msgctxt "#31529"
 msgid "Blur backgrounds"
@@ -513,7 +513,7 @@ msgstr "Add-ons soportados"
 
 msgctxt "#31540"
 msgid "Set Default Lyric fetching add-on for Music OSD"
-msgstr "Ajustar la obtencion de data del Lyric add-on para la Musica en pantalla"
+msgstr "Ajustar el add-on de búsqueda de letras por defecto para el OSD de música"
 
 # empty string with id 31543
 msgctxt "#31542"

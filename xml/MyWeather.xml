@@ -272,7 +272,7 @@
 					<wrapmultiline>true</wrapmultiline>
 				</control>
 				<control type="grouplist">
-					<left>140</left>
+					<left>80</left>
 					<top>250</top>
 					<orientation>vertical</orientation>
 					<itemgap>0</itemgap>

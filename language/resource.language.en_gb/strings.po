@@ -460,7 +460,11 @@ msgctxt "#31510"
 msgid "Video playlist"
 msgstr ""
 
-# empty strings from id 31511 to 31517
+msgctxt "#31511"
+msgid "Select default background"
+msgstr ""
+
+# empty strings from id 31512 to 31517
 
 msgctxt "#31518"
 msgid "Game Settings Menu"

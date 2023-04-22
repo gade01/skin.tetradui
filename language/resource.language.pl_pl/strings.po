@@ -7,39 +7,39 @@ msgstr ""
 "Project-Id-Version: Kodi Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-10-25 10:33+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2023-03-25 16:16+0000\n"
+"Last-Translator: Konrad W <kondiwxd@gmail.com>\n"
 "Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-tetradui/pl_pl/>\n"
 "Language: pl_pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
 msgid "TetradUI is a skin add-on for Kodi media center"
-msgstr ""
+msgstr "TetradUI to skin add-on dla Kodi media center"
 
 msgctxt "Addon Description"
 msgid "TetradUI is a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI."
-msgstr ""
+msgstr "TetradUI jest to skin add-on (skórką) dla Kodi media center. Naszym celem za pośrednictwem TetradUI jest stworzenie świeżego i współczesnego wizerunku klasycznego blades UI znanego z oryginalnego pulpitu Xboxa 360. Inspiracje tym stylem można było znaleźć w pracach Team Blackbolt i Jezz_X w projektach MC360 i JX720. TetradUI bazuje na JX720 stworzonym przez Jezz_X.[CR]Ten add-on (dodatek) został stworzony przez Jezz_X i TeamUI."
 
 msgctxt "#31001"
 msgid "media"
-msgstr ""
+msgstr "media"
 
 msgctxt "#31002"
 msgid "apps"
-msgstr ""
+msgstr "apki"
 
 msgctxt "#31003"
 msgid "system"
-msgstr ""
+msgstr "system"
 
 msgctxt "#31004"
 msgid "weather"
-msgstr ""
+msgstr "pogoda"
 
 msgctxt "#31005"
 msgid "Apps"
@@ -48,11 +48,11 @@ msgstr "Aplikacje"
 # empty strings from id 31006 to 31009
 msgctxt "#31010"
 msgid "TetradUI is a passion project made by TeamUI.[CR]It's a big project and it takes a [I]lot[/I] of effort to develop and maintain.[CR]Consider scanning this QR and make a donation to help keep this project healthy.[CR]Any amount helps greatly and is much appreciated."
-msgstr ""
+msgstr "TetradUI to powstały z pasji projekt i wykonany przez TeamUI.[CR]To duży projekt wymagający [I]wiele[/I] wysiłku do tworzenia oraz utrzymania.[CR]Rozważ skanowanie tego kodu QR, aby zostawić datek, który pomoże utrzymać ten projekt .[CR]Każda suma będzie pomocna i doceniona."
 
 msgctxt "#31011"
 msgid "Applications"
-msgstr ""
+msgstr "Aplikacje"
 
 msgctxt "#31022"
 msgid "Forecast"
@@ -64,7 +64,7 @@ msgstr "Zaktualizowano:"
 
 msgctxt "#31024"
 msgid "Current Temperature"
-msgstr ""
+msgstr "Obecna Temperatura"
 
 msgctxt "#31026"
 msgid "Current"
@@ -85,11 +85,11 @@ msgstr "Strona"
 
 msgctxt "#31202"
 msgid "VIEW OPTIONS"
-msgstr ""
+msgstr "OPCJE WIDOKU"
 
 msgctxt "#31203"
 msgid "PLAYER OPTIONS"
-msgstr ""
+msgstr "OPCJE ODTWARZANIA"
 
 # empty strings from id 31204 to 31209
 msgctxt "#31210"
@@ -98,7 +98,7 @@ msgstr "Współpracownicy"
 
 msgctxt "#31211"
 msgid "Rendering speed"
-msgstr ""
+msgstr "Prędkość Renderowania"
 
 msgctxt "#31212"
 msgid "Memory used"
@@ -126,7 +126,7 @@ msgstr "Dekoder"
 
 msgctxt "#31218"
 msgid "Codec"
-msgstr ""
+msgstr "Kodek"
 
 msgctxt "#31219"
 msgid "Video process information"
@@ -166,7 +166,7 @@ msgstr "dostępne"
 
 msgctxt "#31228"
 msgid "Add-on shortcut"
-msgstr ""
+msgstr "Skrót dodatku"
 
 msgctxt "#31229"
 msgid "Play speed"
@@ -182,15 +182,15 @@ msgstr "Pauza"
 
 msgctxt "#31232"
 msgid "FF"
-msgstr ""
+msgstr "Do przodu"
 
 msgctxt "#31233"
 msgid "RW"
-msgstr ""
+msgstr "Wstecz"
 
 msgctxt "#31234"
 msgid "Buffering"
-msgstr ""
+msgstr "Buforowanie"
 
 msgctxt "#31235"
 msgid "Now Playing"
@@ -198,11 +198,11 @@ msgstr "Teraz odtwarzane"
 
 msgctxt "#31236"
 msgid "End Time:"
-msgstr ""
+msgstr "Koniec:"
 
 msgctxt "#31237"
 msgid "Welcome to TetradUI"
-msgstr ""
+msgstr "Witaj w TetradUI"
 
 msgctxt "#31238"
 msgid "Navigation is done using the top logo button.[CR]Using the skin setting it can either be placed top left or center.[CR][CR][B]Top logo button[/B][CR]Navigating between the blades is done using [I]left[/I] and [I]right[/I].[CR]Clicking the logo button will open a shortcuts sideblade.[CR][CR][B]Menu lists[/B][CR]If no widgets or submenus are present, you can navigate between the blades using [I]left[/I] and [I]right[/I] from the menu lists.[CR][CR][B]Widgets[/B][CR]If widgets are present, [I]left[/I] from the menu lists will take you to the widgets.[CR][I]Left[/I] or [I]right[/I] will take you back to the menu lists.[CR][CR][B]Submenu lists[/B][CR]If submenus are present, [I]right[/I] from the menu lists will take you there.[CR][I]Left[/I] from the submenus will take you back to the menu and [I]right[/I] will take you to the widgets.[CR]If no widgets are present, [I]right[/I] will switch blade."
@@ -210,15 +210,15 @@ msgstr ""
 
 msgctxt "#31239"
 msgid "Never show again"
-msgstr ""
+msgstr "Nie pokazuj ponownie"
 
 msgctxt "#31240"
 msgid "Hidden channels"
-msgstr ""
+msgstr "Ukryte kanały"
 
 msgctxt "#31241"
 msgid "Navigation"
-msgstr ""
+msgstr "Nawigacja"
 
 msgctxt "#31242"
 msgid "Available groups"
@@ -226,7 +226,7 @@ msgstr "Dostępne grupy"
 
 msgctxt "#31243"
 msgid "Hidden channels"
-msgstr ""
+msgstr "Ukryte kanały"
 
 msgctxt "#31244"
 msgid "Add group"
@@ -254,28 +254,28 @@ msgstr "Ostatnio odtwarzane"
 
 msgctxt "#31250"
 msgid "Poster Big"
-msgstr ""
+msgstr "Duży plakat"
 
 msgctxt "#31251"
 msgid "Thumb Info"
-msgstr ""
+msgstr "Miniatura info"
 
 # empty strings from id 31252 to 31299
 msgctxt "#31300"
 msgid "Please setup a music source!"
-msgstr ""
+msgstr "Proszę ustawić źródło muzyki!"
 
 msgctxt "#31301"
 msgid "Please setup[CR]movie and tv show sources!"
-msgstr ""
+msgstr "Proszę ustawić[CR]źródła (foldery) z filmami i serialami TV!"
 
 msgctxt "#31302"
 msgid "Working"
-msgstr "Uruchamianie"
+msgstr "Wczytuję"
 
 msgctxt "#31303"
 msgid "Last logged on"
-msgstr ""
+msgstr "Ostatnio zalogowany"
 
 msgctxt "#31304"
 msgid "Memory Usage"
@@ -283,32 +283,32 @@ msgstr "Zużycie pamięci"
 
 msgctxt "#31305"
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 msgctxt "#31306"
 msgid "Power off"
-msgstr ""
+msgstr "Wyłącz"
 
 msgctxt "#31307"
 msgid "Quit Kodi"
-msgstr ""
+msgstr "Wyjście z Kodi"
 
 # empty string with id 31308
 msgctxt "#31309"
 msgid "Hide Button - "
-msgstr ""
+msgstr "Ukryj Przycisk - "
 
 msgctxt "#31313"
 msgid "No Weather add-on enabled go to Settings/Weather to enable weather forecast"
-msgstr ""
+msgstr "Nie włączono dodatku pogody, przejdź do Ustawienia/Pogoda, aby wyświetlić prognozę pogody"
 
 msgctxt "#31314"
 msgid "Hide widgets"
-msgstr ""
+msgstr "Ukryj widgety"
 
 msgctxt "#31315"
 msgid "Install add-ons"
-msgstr ""
+msgstr "Instaluj dodatki"
 
 msgctxt "#31316"
 msgid "Search add-ons"
@@ -316,11 +316,11 @@ msgstr "Szukaj dodatku"
 
 msgctxt "#31317"
 msgid "Center top logo button"
-msgstr ""
+msgstr "Pokazuj logo na górze"
 
 msgctxt "#31318"
 msgid "RDS"
-msgstr ""
+msgstr "RDS"
 
 # empty strings from id 31319 to 31389
 msgctxt "#31390"
@@ -329,76 +329,78 @@ msgstr "Domyślne dla skóry"
 
 msgctxt "#31391"
 msgid "Arial based (best for Non-English)"
-msgstr ""
+msgstr "Oparta o Arial"
 
 # empty strings from id 31392 to 31399
 msgctxt "#31400"
 msgid "Edit your display settings, including:[CR][CR]* Skin selection[CR]* View options[CR]* Screensaver[CR]* Date & time"
-msgstr ""
+msgstr "Edytuj opcje wyświetlania, a wśród nich:[CR][CR]* Wybór skóry[CR]* Opcje widoku[CR]* Wygaszacz ekranu[CR]* Data i czas"
 
 # empty string with id 31401
 msgctxt "#31402"
 msgid "Watch and manage the logging of Kodi events, including:[CR][CR]* Failed video library scraping[CR]* Add-on updates[CR]* PVR activities"
-msgstr ""
+msgstr "Przeglądaj i zarządzaj logami zdarzeń w Kodi, a wśród nich: [CR][CR] * Nieudane pobieranie danych biblioteki video[CR]* Aktualizacje dodatków[CR]* Działanie PVR"
 
 msgctxt "#31403"
 msgid "Configure network and sharing settings, including:[CR][CR]* Proxy & DNS[CR]* Samba file sharing[CR]* UPNP server[CR]* Web server[CR]* External app control"
-msgstr ""
+msgstr "Konfiguracja sieci i ustawień udostępniania, a wśród nich:[CR][CR]* Proxy i DNS[CR]* Udostępnianie plików przez Samba[CR]* Serwer UPNP[CR]* Web Serwer[CR]* Zewnętrzna aplikacja sterująca"
 
+#, fuzzy
 msgctxt "#31404"
 msgid "Important system settings, including:[CR][CR]* Hardware[CR]* Power saving[CR]* Input devices[CR]* Master user locking"
-msgstr ""
+msgstr "Ważne ustawienia systemu, a wśród nich: [CR][CR]* Hardware[CR]* Oszczędzanie energii[CR]* Urządzenia wejścia[CR]* Zamykanie głównego użytkownika"
 
 msgctxt "#31405"
 msgid "Manage user profiles, including:[CR][CR]* Creating profiles[CR]* Deleting profiles[CR]* Changing user settings"
-msgstr ""
+msgstr "Zarządzaj profilami użytkowników, a wśród nich:[CR][CR]*Utworzenie profilu[CR]*Usuwanie profilu[CR]* Zmiana ustawień użytkownika"
 
 msgctxt "#31406"
 msgid "Change skin specific settings, including:[CR][CR]* Window backgrounds[CR]* Media view options[CR]* Image packs[CR]* Other misc. options"
-msgstr ""
+msgstr "Zmiana szczegółowych ustawień skóry, a wśród nich:[CR][CR]* Tła okien[CR]* Opcje widoku mediów[CR]* Pakiety obrazów[CR]* Inne dodatkowe opcje"
 
 msgctxt "#31407"
 msgid "Configure PVR settings, including:[CR][CR]* Channels[CR]* Guide[CR]* Playback[CR]* Recordings[CR]* Reminders"
-msgstr ""
+msgstr "Konfiguracja ustawień PVR, a wśród nich:[CR][CR]*Kanały[CR]* Przewodnik programowy (Guide)[CR]* Odtwarzanie[CR]*Nagrywanie[CR]* Przypomnienia"
 
 msgctxt "#31408"
 msgid "Configure player settings, including:[CR][CR]* Library options[CR]* Hardware acceleration[CR]* Subtitles[CR]* DVD playback"
-msgstr ""
+msgstr "Konfiguracja ustawień odtwarzania, a wśród nich:[CR][CR]* Ustawienia biblioteki[CR]* Akceleracja sprzętowa[CR]* Napisy[CR]* Odtwarzanie DVD"
 
 msgctxt "#31409"
 msgid "Configure media settings, including:[CR][CR]* Library options[CR]* File management[CR]* Videos, music, pictures options"
-msgstr ""
+msgstr "Konfiguracja ustawień mediów, a wśród nich:[CR][CR]*Ustawienia biblioteki mediów[CR]* Zarządzanie plikami[CR]* Opcje video, muzyki, zdjęć"
 
+#, fuzzy
 msgctxt "#31410"
 msgid "Information on Kodi and your hardware, including:[CR][CR]* Storage[CR]* Network[CR]* Video[CR]* Hardware"
-msgstr ""
+msgstr "Informacje o Kodi i twoim sprzęcie, a wśród nich:[CR][CR]* Pojemność dyskowa[CR]* Sieć[CR]* Video[CR]* Sprzęt"
 
 msgctxt "#31411"
 msgid "Configure game settings, including:[CR][CR]* Gameplay options[CR]* RetroAchievements management"
-msgstr ""
+msgstr "Skonfiguruj ustawienia gier, a wśród nich: [CR][CR]* Opcje rozgrywki[CR]* Zarządzanie RetroAchievements"
 
 # empty strings from id 31412 to 31458
 msgctxt "#31460"
 msgid "Welcome to Kodi[CR]Please choose your profile and log in"
-msgstr ""
+msgstr "Witaj w Kodi[CR]Proszę wybrać swój profil i zalogować się"
 
 msgctxt "#31461"
 msgid "Install add-ons"
-msgstr ""
+msgstr "Instaluj dodatki"
 
 # empty strings from id 31462 to 31479
 msgctxt "#31480"
 msgid "[COLOR=orange][B]WARNING[/B] !![/COLOR][CR]Hiding all buttons will cause Navigation issues when switching between blades."
-msgstr ""
+msgstr "[COLOR=orange][B]UWAGA[/B] !![/COLOR][CR]Ukrycie wszystkich przycisków spowoduje problemy z nawigacją podczas przełączania między sekcjami."
 
 msgctxt "#31481"
 msgid "These add-ons will improve the features and overall experience of the skin."
-msgstr ""
+msgstr "Te dodatki usprawnią działanie funkcji oraz ogólne korzystanie z tej skóry."
 
 # empty strings from id 31482 to 31498
 msgctxt "#31499"
 msgid "Not installed"
-msgstr ""
+msgstr "Nie zainstalowano"
 
 # empty string with id 31500
 msgctxt "#31501"
@@ -407,11 +409,11 @@ msgstr "Polecane"
 
 msgctxt "#31502"
 msgid "Blades"
-msgstr ""
+msgstr "Sekcje"
 
 msgctxt "#31503"
 msgid "Image packs"
-msgstr ""
+msgstr "Pakiety obrazów"
 
 msgctxt "#31504"
 msgid "Change mode"
@@ -444,43 +446,44 @@ msgstr "Playlista wideo"
 # empty strings from id 31511 to 31517
 msgctxt "#31518"
 msgid "Game Settings Menu"
-msgstr ""
+msgstr "Ustawienia Menu Gier"
 
 msgctxt "#31519"
 msgid "Show splash screen"
-msgstr ""
+msgstr "Pokazuj ekran tytułowy"
 
 msgctxt "#31520"
 msgid "Show now playing video in the background"
-msgstr ""
+msgstr "Pokazuj odtwarzane video w tle"
 
 msgctxt "#31521"
 msgid "Show music visualization in the background"
-msgstr ""
+msgstr "Pokazuj wizualizacje w tle podczas odtwarzania muzyki"
 
+#, fuzzy
 msgctxt "#31522"
 msgid "Show media specific fanart in the background"
-msgstr ""
+msgstr "Pokazuj konkretny media fanart w tle"
 
 msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
-msgstr ""
+msgstr "Ukryj animacje padającego deszczu w tle"
 
 msgctxt "#31524"
 msgid "Don't blend background with fanart,visualization,video"
-msgstr ""
+msgstr "Nie łącz tła z fanart, wizualizacją, video"
 
 msgctxt "#31525"
 msgid "Select rating"
-msgstr ""
+msgstr "Wybierz ocenę"
 
 msgctxt "#31526"
 msgid "Animate all fanart backgrounds"
-msgstr ""
+msgstr "Animuj wszystkie tła fanart"
 
 msgctxt "#31527"
 msgid "Animate fanart backgrounds for music playing"
-msgstr ""
+msgstr "Animuj tła fanart podczas odtwarzania muzyki"
 
 msgctxt "#31528"
 msgid "Enable Artist Slideshow fanart backgrounds"
@@ -488,24 +491,24 @@ msgstr ""
 
 msgctxt "#31529"
 msgid "Blur backgrounds"
-msgstr ""
+msgstr "Matowe tła"
 
 msgctxt "#31530"
 msgid "Fanart only"
-msgstr ""
+msgstr "Tylko Fanart"
 
 msgctxt "#31531"
 msgid "Backgrounds only"
-msgstr ""
+msgstr "Tylko tła"
 
 msgctxt "#31532"
 msgid "Fanart and backgrounds"
-msgstr ""
+msgstr "Fanart i tła"
 
 # empty strings from id 31533 to 31536
 msgctxt "#31537"
 msgid "Movie set information"
-msgstr ""
+msgstr "Informacje o kolekcji filmowej"
 
 msgctxt "#31538"
 msgid "About"
@@ -513,16 +516,16 @@ msgstr "O skórze"
 
 msgctxt "#31539"
 msgid "Supported add-ons"
-msgstr ""
+msgstr "Wspierane dodatki"
 
 msgctxt "#31540"
 msgid "Set Default Lyric fetching add-on for Music OSD"
-msgstr ""
+msgstr "Wybierz domyślny dodatek pobierania tekstów utworów dla Muzyki OSD"
 
 # empty string with id 31543
 msgctxt "#31542"
 msgid "In progress"
-msgstr ""
+msgstr "W trakcie"
 
 msgctxt "#31543"
 msgid "In cinemas"
@@ -530,11 +533,11 @@ msgstr "W kinach"
 
 msgctxt "#31544"
 msgid "Upcoming movies"
-msgstr ""
+msgstr "Nadchodzące filmy"
 
 msgctxt "#31545"
 msgid "Unwatched movies"
-msgstr "Filmy nieobejrzane"
+msgstr "Filmy nie obejrzane"
 
 msgctxt "#31546"
 msgid "Random movies"
