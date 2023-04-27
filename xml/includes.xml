@@ -1002,7 +1002,6 @@
 				<left>2000</left>
 				<onleft>$PARAM[onleft]</onleft>
 				<onright>$PARAM[onright]</onright>
-				<onup>9000</onup>
 				<scrolltime>300</scrolltime>
 				<autoscroll time="5000" delay="5000" repeat="10000">true</autoscroll>
 				<onclick condition="Container(9000).HasFocus(6)">PlayMedia(musicdb://albums/$INFO[ListItem.DBID]/)</onclick>
