@@ -18,8 +18,8 @@
 				<orientation>horizontal</orientation>
 				<onleft>707</onleft>
 				<onright condition="VideoPlayer.Content(livetv)">708</onright>
-				<onright condition="!VideoPlayer.Content(livetv) + Control.IsEnabled(706)">706</onright>
-				<onright condition="!VideoPlayer.Content(livetv) + !Control.IsEnabled(706)">701</onright>
+				<onright condition="!VideoPlayer.Content(livetv) + Control.IsVisible(706)">706</onright>
+				<onright condition="!VideoPlayer.Content(livetv) + !Control.IsVisible(706)">701</onright>
 				<onup>801</onup>
 				<ondown>801</ondown>
 				<control type="button" id="600">
@@ -157,8 +157,7 @@
 					<onclick>SetProperty(settingslist_content,3d,home)</onclick>
 					<onclick>SetProperty(settingslist_header,$LOCALIZE[36501],home)</onclick>
 					<onclick>ActivateWindow(1101)</onclick>
-					<enable>VideoPlayer.IsStereoscopic</enable>
-					<animation effect="fade" start="100" end="0" time="75" condition="!VideoPlayer.IsStereoscopic">Conditional</animation>
+					<visible>VideoPlayer.IsStereoscopic</visible>
 				</control>
 				<control type="button" id="701">
 					<width>45</width>
