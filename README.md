@@ -26,7 +26,7 @@ To install this add-on you must do so from the Add-on manager from within Kodi b
 4. Kodi add-on repository   
 5. Look and feel   
 6. Skins   
-7. Rapier   
+7. TetradUI   
 8. Install
 
 Any script dependencies that the skin requires will automatically be downloaded. If you already have the skin file, then go into the add-ons node and choose "Install from zip file" and select the TetradUI zip file.
