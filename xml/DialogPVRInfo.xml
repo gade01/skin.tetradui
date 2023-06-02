@@ -235,7 +235,7 @@
 						<label>19165</label>
 						<visible>Window.IsVisible(PVRGuideInfo)</visible>
 					</control>
-					<control type="button" id="12">
+					<control type="button" id="10">
 						<description>Play programme</description>
 						<include>InfoDialogButtonCommonValues</include>
 						<label>19190</label>
