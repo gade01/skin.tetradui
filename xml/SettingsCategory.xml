@@ -2,10 +2,9 @@
 <window>
 	<defaultcontrol>3</defaultcontrol>
 	<controls>
-		<include condition="!Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
+		<include>CommonVideoVizBackground</include>
 		<include condition="!Window.Previous(Weather)">CommonSystemBackground</include>
 		<include condition="Window.Previous(Weather)">CommonWeatherBackground</include>
-		<include condition="Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
 
 		<control type="group">
 			<visible>!Window.Previous(Weather) + !Window.Previous(Videos) + !Window.Previous(Music) + !Window.Previous(Pictures) + !Window.Previous(Programs)</visible>

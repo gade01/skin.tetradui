@@ -172,10 +172,9 @@
 		<include>RainDropAnimationBackground</include>
 	</include>
 	<include name="CommonMediaBackgrounds">
-		<include condition="!Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
+		<include>CommonVideoVizBackground</include>
 		<include condition="Skin.String(SubBladeType,apps)">CommonAppsBackground</include>
 		<include condition="!Skin.String(SubBladeType,apps)">CommonMediaBackground</include>
-		<include condition="Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
 		<include condition="Skin.String(SubBladeType,apps)">CommonAppsBlackwash</include>
 		<include condition="!Skin.String(SubBladeType,apps)">CommonMediaBlackwash</include>
 	</include>

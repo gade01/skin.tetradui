@@ -490,9 +490,7 @@ msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
 msgstr ""
 
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr ""
+# empty string with id 31524
 
 msgctxt "#31525"
 msgid "Select rating"

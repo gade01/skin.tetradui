@@ -2,9 +2,8 @@
 <window>
 	<defaultcontrol always="true">3</defaultcontrol>
 	<controls>
-		<include condition="!Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
+		<include>CommonVideoVizBackground</include>
 		<include>CommonSystemBackground</include>
-		<include condition="Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
 		<include>CommonSystemBlackwash</include>
 		<control type="group">
 			<left>130</left>
@@ -142,12 +141,6 @@
 						<label>31522</label>
 						<onclick>Skin.ToggleSetting(Back_Fanart)</onclick>
 						<selected>!Skin.HasSetting(Back_Fanart)</selected>
-					</control>
-					<control type="radiobutton" id="105">
-						<include>SkinSettingsRadioButtonCommonValues</include>
-						<label>31524</label>
-						<onclick>Skin.ToggleSetting(DontBlendBackground)</onclick>
-						<selected>Skin.HasSetting(DontBlendBackground)</selected>
 					</control>
 					<control type="radiobutton" id="106">
 						<include>SkinSettingsRadioButtonCommonValues</include>

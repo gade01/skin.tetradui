@@ -2,12 +2,11 @@
 <window>
 	<defaultcontrol>95</defaultcontrol>
 	<controls>
-		<include condition="!Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
+		<include>CommonVideoVizBackground</include>
 		<include condition="!Window.Previous(Weather) + !Window.Previous(Videos) + !Window.Previous(Music) + !Window.Previous(Pictures) + !Window.Previous(Programs)">CommonSystemBackground</include>
 		<include condition="Window.Previous(Weather)">CommonWeatherBackground</include>
 		<include condition="Window.Previous(Programs)">CommonAppsBackground</include>
 		<include condition="Window.Previous(Videos) | Window.Previous(Music) | Window.Previous(Pictures)">CommonMediaBackground</include>
-		<include condition="Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
 		<include condition="!Window.Previous(Weather) + !Window.Previous(Videos) + !Window.Previous(Music) + !Window.Previous(Pictures) + !Window.Previous(Programs)">CommonSystemBlackwash</include>
 		<include condition="Window.Previous(Weather)">CommonWeatherBlackwash</include>
 		<include condition="Window.Previous(Programs)">CommonAppsBlackwash</include>

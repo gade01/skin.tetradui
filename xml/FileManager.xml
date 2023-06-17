@@ -2,9 +2,8 @@
 <window>
 	<defaultcontrol>20</defaultcontrol>
 	<controls>
-		<include condition="!Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
+		<include>CommonVideoVizBackground</include>
 		<include>CommonAppsBackground</include>
-		<include condition="Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
 		<include>CommonAppsBlackwash</include>
 		<control type="group">
 			<left>130</left>

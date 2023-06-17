@@ -3,9 +3,8 @@
 	<defaultcontrol>50</defaultcontrol>
 	<views>50</views>
 	<controls>
-		<include condition="!Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
+		<include>CommonVideoVizBackground</include>
 		<include>CommonMediaBackground</include>
-		<include condition="Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
 		<include>CommonMediaBlackwash</include>
 		<control type="group">
 			<left>130</left>

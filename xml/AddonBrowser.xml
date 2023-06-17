@@ -4,10 +4,9 @@
 	<menucontrol>9000</menucontrol>
 	<views>50,52,55</views>
 	<controls>
-		<include condition="!Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
+		<include>CommonVideoVizBackground</include>
 		<include condition="![Window.Previous(Videos) | Window.Previous(Music) | Window.Previous(Pictures) | Skin.String(SubBladeType,media)]">CommonAppsBackground</include>
 		<include condition="Window.Previous(Videos) | Window.Previous(Music) | Window.Previous(Pictures) | Skin.String(SubBladeType,media)">CommonMediaBackground</include>
-		<include condition="Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
 		<include condition="![Window.Previous(Videos) | Window.Previous(Music) | Window.Previous(Pictures) | Skin.String(SubBladeType,media)]">CommonAppsBlackwash</include>
 		<include condition="Window.Previous(Videos) | Window.Previous(Music) | Window.Previous(Pictures) | Skin.String(SubBladeType,media)">CommonMediaBlackwash</include>
 

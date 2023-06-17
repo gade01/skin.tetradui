@@ -4,9 +4,8 @@
 	<menucontrol>9000</menucontrol>
 	<views>50</views>
 	<controls>
-		<include condition="!Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
+		<include>CommonVideoVizBackground</include>
 		<include>CommonSystemBackground</include>
-		<include condition="Skin.HasSetting(DontBlendBackground)">CommonVideoVizBackground</include>
 		<include>CommonSystemBlackwash</include>
 		<control type="group">
 			<left>130</left>
