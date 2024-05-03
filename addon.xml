@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="skin.tetradui" version="2.1.3" name="TetradUI" provider-name="Jezz_X, TeamUI">
   <requires>
-    <import addon="xbmc.gui" version="5.15.00" />
+    <import addon="xbmc.gui" version="5.17.00" />
 	<import addon="script.embuary.helper" version="2.0.2"/>
   </requires>
   <extension point="xbmc.gui.skin" defaultthemename="textures.xbt" debugging="false" effectslowdown="1.0">
