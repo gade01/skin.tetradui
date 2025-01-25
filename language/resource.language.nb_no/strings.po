@@ -467,10 +467,6 @@ msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
 msgstr "Skjul regndråpe animasjon i bakgrunnen"
 
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr "Ikke bland bakgrunn med fanart, visualisering og video"
-
 msgctxt "#31525"
 msgid "Select rating"
 msgstr ""
@@ -552,6 +548,10 @@ msgstr "Nivå"
 msgctxt "#31554"
 msgid "Autologin"
 msgstr ""
+
+#~ msgctxt "#31524"
+#~ msgid "Don't blend background with fanart,visualization,video"
+#~ msgstr "Ikke bland bakgrunn med fanart, visualisering og video"
 
 #~ msgctxt "#31551"
 #~ msgid "Window custom smart playlist shortcuts"

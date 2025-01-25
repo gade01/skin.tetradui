@@ -7,39 +7,39 @@ msgstr ""
 "Project-Id-Version: Kodi Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-10-25 10:33+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2023-07-22 15:29+0000\n"
+"Last-Translator: yohru <yohru7@gmail.com>\n"
 "Language-Team: Japanese <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-tetradui/ja_jp/>\n"
 "Language: ja_jp\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.18.2\n"
 
 msgctxt "Addon Summary"
 msgid "TetradUI is a skin add-on for Kodi media center"
-msgstr ""
+msgstr "TetradUIは、Kodiメディア センターのスキン アドオンです"
 
 msgctxt "Addon Description"
 msgid "TetradUI is a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI."
-msgstr ""
+msgstr "TetradUIは、Kodiメディア センターのスキン アドオンです。TetradUI の目的は、オリジナルの Xbox360 ダッシュボードにあるクラシックなブレード スタイルのUIのフレッシュでモダンなオマージュを作成することです。Team BlackboltとJezz_Xのプロジェクト MC360とJX720の作品にもそれぞれ見られます。TetradUIは、Jezz_XのJX720をベースにしています。[CR]このアドオンは、Jezz_XとTeamUIによって作成されました。"
 
 msgctxt "#31001"
 msgid "media"
-msgstr ""
+msgstr "メディア"
 
 msgctxt "#31002"
 msgid "apps"
-msgstr ""
+msgstr "アプリ"
 
 msgctxt "#31003"
 msgid "system"
-msgstr ""
+msgstr "システム"
 
 msgctxt "#31004"
 msgid "weather"
-msgstr ""
+msgstr "天気"
 
 msgctxt "#31005"
 msgid "Apps"
@@ -48,11 +48,11 @@ msgstr "アプリ"
 # empty strings from id 31006 to 31009
 msgctxt "#31010"
 msgid "TetradUI is a passion project made by TeamUI.[CR]It's a big project and it takes a [I]lot[/I] of effort to develop and maintain.[CR]Consider scanning this QR and make a donation to help keep this project healthy.[CR]Any amount helps greatly and is much appreciated."
-msgstr ""
+msgstr "TetradUIは、TeamUIによって作られた情熱のあるプロジェクトです。[CR]これは大きなプロジェクトであり、開発と維持には、[I]とても[/I]労力がかかります。[CR]このプロジェクトの健全性を維持するために、このQRをスキャンして寄付することを検討してください。[CR]いくらであっても役立ちますので、大変感謝しています。"
 
 msgctxt "#31011"
 msgid "Applications"
-msgstr ""
+msgstr "アプリケーション"
 
 msgctxt "#31022"
 msgid "Forecast"
@@ -64,11 +64,11 @@ msgstr "更新:"
 
 msgctxt "#31024"
 msgid "Current Temperature"
-msgstr ""
+msgstr "現在の温度"
 
 msgctxt "#31026"
 msgid "Current"
-msgstr ""
+msgstr "現在"
 
 msgctxt "#31102"
 msgid "Power Options"
@@ -85,11 +85,11 @@ msgstr "ページ"
 
 msgctxt "#31202"
 msgid "VIEW OPTIONS"
-msgstr ""
+msgstr "オプションを表示"
 
 msgctxt "#31203"
 msgid "PLAYER OPTIONS"
-msgstr ""
+msgstr "プレイヤーのオプション"
 
 # empty strings from id 31204 to 31209
 msgctxt "#31210"
@@ -98,7 +98,7 @@ msgstr "協力者"
 
 msgctxt "#31211"
 msgid "Rendering speed"
-msgstr ""
+msgstr "レンダリング速度"
 
 msgctxt "#31212"
 msgid "Memory used"
@@ -162,11 +162,11 @@ msgstr "オーディオストリームをトグル"
 
 msgctxt "#31227"
 msgid "available"
-msgstr ""
+msgstr "利用可能"
 
 msgctxt "#31228"
 msgid "Add-on shortcut"
-msgstr ""
+msgstr "アドオンのショートカット"
 
 msgctxt "#31229"
 msgid "Play speed"
@@ -178,19 +178,19 @@ msgstr "再生中"
 
 msgctxt "#31231"
 msgid "Paused"
-msgstr ""
+msgstr "一時停止中"
 
 msgctxt "#31232"
 msgid "FF"
-msgstr ""
+msgstr "FF"
 
 msgctxt "#31233"
 msgid "RW"
-msgstr ""
+msgstr "RW"
 
 msgctxt "#31234"
 msgid "Buffering"
-msgstr ""
+msgstr "バッファリング"
 
 msgctxt "#31235"
 msgid "Now Playing"
@@ -198,27 +198,27 @@ msgstr "現在再生中"
 
 msgctxt "#31236"
 msgid "End Time:"
-msgstr ""
+msgstr "終了時間:"
 
 msgctxt "#31237"
 msgid "Welcome to TetradUI"
-msgstr ""
+msgstr "TetradUI へようこそ"
 
 msgctxt "#31238"
 msgid "Navigation is done using the top logo button.[CR]Using the skin setting it can either be placed top left or center.[CR][CR][B]Top logo button[/B][CR]Navigating between the blades is done using [I]left[/I] and [I]right[/I].[CR]Clicking the logo button will open a shortcuts sideblade.[CR][CR][B]Menu lists[/B][CR]If no widgets or submenus are present, you can navigate between the blades using [I]left[/I] and [I]right[/I] from the menu lists.[CR][CR][B]Widgets[/B][CR]If widgets are present, [I]left[/I] from the menu lists will take you to the widgets.[CR][I]Left[/I] or [I]right[/I] will take you back to the menu lists.[CR][CR][B]Submenu lists[/B][CR]If submenus are present, [I]right[/I] from the menu lists will take you there.[CR][I]Left[/I] from the submenus will take you back to the menu and [I]right[/I] will take you to the widgets.[CR]If no widgets are present, [I]right[/I] will switch blade."
-msgstr ""
+msgstr "ナビゲーションは上部のロゴ ボタンを使用して行われます。[CR]スキン設定を使用すると、左上または中央に配置できます。[CR][CR][B]上部のロゴ ボタン[/B][CR]ブレード間の移動は、[I]左[/I]と[I]右[/I]を使用して行われます。[CR]ロゴ ボタンをクリックすると、ショートカットのサイドブレードが開きます。[CR][CR][B]メニュー リスト[/B][CR]ウィジェットまたはサブがない場合メニューが存在する場合は、メニュー リストから [I]left[/I] と [I]right[/I] を使用してブレード間を移動できます。[CR][CR][B]ウィジェット[/B][CR] ウィジェットが存在する場合、メニュー リストから [I]左[/I] を押すとウィジェットに移動します。[CR][I]左[/I] または [I]右[/I] を押すとメニュー リストに戻ります。[CR] [CR][B]サブメニュー リスト[/B][CR]サブメニューが存在する場合は、メニュー リストから [I]右[/I] を押すとそこに移動します。サブメニューから [CR][I]左[/I] を押すとメニューに戻り、[I]右[/I]を押すとウィジェットに移動します。[CR]ウィジェットが存在しない場合は、[I]右[/I]を押すとブレードが切り替わります。"
 
 msgctxt "#31239"
 msgid "Never show again"
-msgstr ""
+msgstr "二度と表示しない"
 
 msgctxt "#31240"
 msgid "Hidden channels"
-msgstr ""
+msgstr "隠しチャンネル(Hidden channels)"
 
 msgctxt "#31241"
 msgid "Navigation"
-msgstr ""
+msgstr "ナビゲーション"
 
 msgctxt "#31242"
 msgid "Available groups"
@@ -226,7 +226,7 @@ msgstr "利用可能なグループ"
 
 msgctxt "#31243"
 msgid "Hidden channels"
-msgstr ""
+msgstr "隠しチャンネル(Hidden channels)"
 
 msgctxt "#31244"
 msgid "Add group"
@@ -250,15 +250,15 @@ msgstr "チャンネルグループ"
 
 msgctxt "#31249"
 msgid "Recently played"
-msgstr ""
+msgstr "最近再生した"
 
 msgctxt "#31250"
 msgid "Poster Big"
-msgstr ""
+msgstr "ポスタービッグ"
 
 msgctxt "#31251"
 msgid "Thumb Info"
-msgstr ""
+msgstr "サムインフォ"
 
 # empty strings from id 31252 to 31299
 msgctxt "#31300"
@@ -267,7 +267,7 @@ msgstr "ミュージックソースのセットアップをしてください！
 
 msgctxt "#31301"
 msgid "Please setup[CR]movie and tv show sources!"
-msgstr ""
+msgstr "映画とテレビ番組のソースを[CR]セットアップしてください！"
 
 msgctxt "#31302"
 msgid "Working"
@@ -275,40 +275,40 @@ msgstr "動作中"
 
 msgctxt "#31303"
 msgid "Last logged on"
-msgstr ""
+msgstr "最後にログオンした日"
 
 msgctxt "#31304"
 msgid "Memory Usage"
-msgstr ""
+msgstr "メモリ使用量"
 
 msgctxt "#31305"
 msgid "Reset"
-msgstr ""
+msgstr "リセット"
 
 msgctxt "#31306"
 msgid "Power off"
-msgstr ""
+msgstr "電源を切る"
 
 msgctxt "#31307"
 msgid "Quit Kodi"
-msgstr ""
+msgstr "Kodiをやめる"
 
 # empty string with id 31308
 msgctxt "#31309"
 msgid "Hide Button - "
-msgstr ""
+msgstr "ボタンを隠す - "
 
 msgctxt "#31313"
 msgid "No Weather add-on enabled go to Settings/Weather to enable weather forecast"
-msgstr ""
+msgstr "天気アドオンが有効になっていない場合は、設定/天気に移動して天気予報を有効にします"
 
 msgctxt "#31314"
 msgid "Hide widgets"
-msgstr ""
+msgstr "ウィジェットを隠す"
 
 msgctxt "#31315"
 msgid "Install add-ons"
-msgstr ""
+msgstr "アドオンをインストールする"
 
 msgctxt "#31316"
 msgid "Search add-ons"
@@ -316,11 +316,11 @@ msgstr "アドオンの検索"
 
 msgctxt "#31317"
 msgid "Center top logo button"
-msgstr ""
+msgstr "中央上部のロゴボタン"
 
 msgctxt "#31318"
 msgid "RDS"
-msgstr ""
+msgstr "RDS"
 
 # empty strings from id 31319 to 31389
 msgctxt "#31390"
@@ -329,71 +329,71 @@ msgstr "スキンデフォルト"
 
 msgctxt "#31391"
 msgid "Arial based (best for Non-English)"
-msgstr ""
+msgstr "Arial based(英語以外に最適)"
 
 # empty strings from id 31392 to 31399
 msgctxt "#31400"
 msgid "Edit your display settings, including:[CR][CR]* Skin selection[CR]* View options[CR]* Screensaver[CR]* Date & time"
-msgstr ""
+msgstr "ディスプレイ設定の編集:[CR][CR]* スキンの選択[CR]* 表示オプション[CR]* スクリーンセーバー[CR]* 日付と時刻"
 
 # empty string with id 31401
 msgctxt "#31402"
 msgid "Watch and manage the logging of Kodi events, including:[CR][CR]* Failed video library scraping[CR]* Add-on updates[CR]* PVR activities"
-msgstr ""
+msgstr "Kodiイベントのログを監視および管理:[CR][CR]* ビデオ ライブラリのスクレイピングの失敗[CR]* アドオンのアップデート[CR]* PVRアクティビティ"
 
 msgctxt "#31403"
 msgid "Configure network and sharing settings, including:[CR][CR]* Proxy & DNS[CR]* Samba file sharing[CR]* UPNP server[CR]* Web server[CR]* External app control"
-msgstr ""
+msgstr "ネットワークの設定と共有の設定:[CR][CR]* プロキシとDNS[CR]* Sambaファイル共有[CR]* UPNPサーバー[CR]* Webサーバー[CR]* 外部アプリ制御"
 
 msgctxt "#31404"
 msgid "Important system settings, including:[CR][CR]* Hardware[CR]* Power saving[CR]* Input devices[CR]* Master user locking"
-msgstr ""
+msgstr "重要なシステム設定:[CR][CR]* ハードウェア[CR]* 省電力[CR]* 入力デバイス[CR]* マスターとユーザー ロック"
 
 msgctxt "#31405"
 msgid "Manage user profiles, including:[CR][CR]* Creating profiles[CR]* Deleting profiles[CR]* Changing user settings"
-msgstr ""
+msgstr "ユーザープロファイルの管理:[CR][CR]* プロファイルの作成[CR]* プロファイルの削除[CR]* ユーザー設定の変更"
 
 msgctxt "#31406"
 msgid "Change skin specific settings, including:[CR][CR]* Window backgrounds[CR]* Media view options[CR]* Image packs[CR]* Other misc. options"
-msgstr ""
+msgstr "スキン固有な設定の変更:[CR][CR]* ウィンドウの背景[CR]* メディア ビュー オプション[CR]* 画像パック[CR]* その他のオプション"
 
 msgctxt "#31407"
 msgid "Configure PVR settings, including:[CR][CR]* Channels[CR]* Guide[CR]* Playback[CR]* Recordings[CR]* Reminders"
-msgstr ""
+msgstr "PVR設定の構成:[CR][CR]* チャンネル[CR]* ガイド[CR]* 再生[CR]* 録画[CR]* リマインダー"
 
 msgctxt "#31408"
 msgid "Configure player settings, including:[CR][CR]* Library options[CR]* Hardware acceleration[CR]* Subtitles[CR]* DVD playback"
-msgstr ""
+msgstr "プレーヤーの設定:[CR][CR]* ライブラリ オプション[CR]* ハードウェア アクセラレーション[CR]* 字幕[CR]* DVD再生"
 
 msgctxt "#31409"
 msgid "Configure media settings, including:[CR][CR]* Library options[CR]* File management[CR]* Videos, music, pictures options"
-msgstr ""
+msgstr "メディアの設定と構成:[CR][CR]* ライブラリ オプション[CR]* ファイル管理[CR]* ビデオ、音楽、写真のオプション"
 
 msgctxt "#31410"
 msgid "Information on Kodi and your hardware, including:[CR][CR]* Storage[CR]* Network[CR]* Video[CR]* Hardware"
-msgstr ""
+msgstr "Kodiとハードウェアに関する情報:[CR][CR]* ストレージ[CR]* ネットワーク[CR]* ビデオ[CR]* ハードウェア"
 
 msgctxt "#31411"
 msgid "Configure game settings, including:[CR][CR]* Gameplay options[CR]* RetroAchievements management"
-msgstr ""
+msgstr "ゲームの設定と構成:[CR][CR]* ゲームプレイ オプション[CR]* RetroAchievementsの管理"
 
 # empty strings from id 31412 to 31458
 msgctxt "#31460"
 msgid "Welcome to Kodi[CR]Please choose your profile and log in"
-msgstr ""
+msgstr "Kodi へようこそ[CR]プロフィイルを選択してログインしてください"
 
 msgctxt "#31461"
 msgid "Install add-ons"
-msgstr ""
+msgstr "アドオンをインストールする"
 
 # empty strings from id 31462 to 31479
 msgctxt "#31480"
 msgid "[COLOR=orange][B]WARNING[/B] !![/COLOR][CR]Hiding all buttons will cause Navigation issues when switching between blades."
-msgstr ""
+msgstr "[COLOR=orange][B]警告[/B]！！！[/COLOR][CR]すべてのボタンを非表示にすると、ブレードを切り替えるときにナビゲーションに問題が発生します。"
 
 msgctxt "#31481"
 msgid "These add-ons will improve the features and overall experience of the skin."
-msgstr ""
+msgstr "これらのアドオンは、スキンの機能と全体的なエクスペリエンスを向上させます。"
 
 # empty strings from id 31482 to 31498
 msgctxt "#31499"
@@ -407,11 +407,11 @@ msgstr "注目の"
 
 msgctxt "#31502"
 msgid "Blades"
-msgstr ""
+msgstr "ブレード"
 
 msgctxt "#31503"
 msgid "Image packs"
-msgstr ""
+msgstr "画像パック"
 
 msgctxt "#31504"
 msgid "Change mode"
@@ -443,7 +443,7 @@ msgstr "ビデオプレイリスト"
 
 msgctxt "#31511"
 msgid "Select default background"
-msgstr ""
+msgstr "デフォルトの背景を選択する"
 
 # empty strings from id 31511 to 31517
 msgctxt "#31518"
@@ -452,27 +452,23 @@ msgstr "ゲームの設定メニュー"
 
 msgctxt "#31519"
 msgid "Show splash screen"
-msgstr ""
+msgstr "スプラッシュ画面を表示する"
 
 msgctxt "#31520"
 msgid "Show now playing video in the background"
-msgstr ""
+msgstr "現在再生中のビデオをバックグラウンドで表示する"
 
 msgctxt "#31521"
 msgid "Show music visualization in the background"
-msgstr ""
+msgstr "バックグラウンドで音楽のヴィジュアライゼーションを表示する"
 
 msgctxt "#31522"
 msgid "Show media specific fanart in the background"
-msgstr ""
+msgstr "メディア固有のファンアートをバックグラウンドで表示する"
 
 msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
-msgstr ""
-
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr ""
+msgstr "バックグラウンドで水滴のアニメーションを非表示にする"
 
 msgctxt "#31525"
 msgid "Select rating"
@@ -480,53 +476,53 @@ msgstr "レーティングの選択"
 
 msgctxt "#31526"
 msgid "Animate all fanart backgrounds"
-msgstr ""
+msgstr "すべてのファンアートの背景をアニメーション化する"
 
 msgctxt "#31527"
 msgid "Animate fanart backgrounds for music playing"
-msgstr ""
+msgstr "音楽再生用のファンアートの背景をアニメーション化する"
 
 msgctxt "#31528"
 msgid "Enable Artist Slideshow fanart backgrounds"
-msgstr ""
+msgstr "アーティスト スライドショーのファンアートの背景を有効にする"
 
 msgctxt "#31529"
 msgid "Blur backgrounds"
-msgstr ""
+msgstr "背景をぼかす"
 
 msgctxt "#31530"
 msgid "Fanart only"
-msgstr ""
+msgstr "ファンアートのみ"
 
 msgctxt "#31531"
 msgid "Backgrounds only"
-msgstr ""
+msgstr "背景のみ"
 
 msgctxt "#31532"
 msgid "Fanart and backgrounds"
-msgstr ""
+msgstr "ファンアートと背景"
 
 # empty strings from id 31533 to 31536
 msgctxt "#31537"
 msgid "Movie set information"
-msgstr ""
+msgstr "映画セット情報"
 
 msgctxt "#31538"
 msgid "About"
-msgstr "fTVについて"
+msgstr "TetradUIについて"
 
 msgctxt "#31539"
 msgid "Supported add-ons"
-msgstr ""
+msgstr "サポートされているアドオン"
 
 msgctxt "#31540"
 msgid "Set Default Lyric fetching add-on for Music OSD"
-msgstr ""
+msgstr "音楽OSDのデフォルトで歌詞(Lyric)取得アドオンを設定する"
 
 # empty string with id 31543
 msgctxt "#31542"
 msgid "In progress"
-msgstr ""
+msgstr "進行中"
 
 msgctxt "#31543"
 msgid "In cinemas"
