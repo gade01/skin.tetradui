@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Kodi Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-06-02 09:15+0000\n"
+"PO-Revision-Date: 2024-04-06 22:13+0000\n"
 "Last-Translator: Konrad W <kondiwxd@gmail.com>\n"
 "Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-tetradui/pl_pl/>\n"
 "Language: pl_pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 5.4\n"
 
 msgctxt "Addon Summary"
 msgid "TetradUI is a skin add-on for Kodi media center"
@@ -198,7 +198,7 @@ msgstr "Teraz odtwarzane"
 
 msgctxt "#31236"
 msgid "End Time:"
-msgstr "Koniec:"
+msgstr "Koniec o:"
 
 msgctxt "#31237"
 msgid "Welcome to TetradUI"
@@ -206,7 +206,7 @@ msgstr "Witaj w TetradUI"
 
 msgctxt "#31238"
 msgid "Navigation is done using the top logo button.[CR]Using the skin setting it can either be placed top left or center.[CR][CR][B]Top logo button[/B][CR]Navigating between the blades is done using [I]left[/I] and [I]right[/I].[CR]Clicking the logo button will open a shortcuts sideblade.[CR][CR][B]Menu lists[/B][CR]If no widgets or submenus are present, you can navigate between the blades using [I]left[/I] and [I]right[/I] from the menu lists.[CR][CR][B]Widgets[/B][CR]If widgets are present, [I]left[/I] from the menu lists will take you to the widgets.[CR][I]Left[/I] or [I]right[/I] will take you back to the menu lists.[CR][CR][B]Submenu lists[/B][CR]If submenus are present, [I]right[/I] from the menu lists will take you there.[CR][I]Left[/I] from the submenus will take you back to the menu and [I]right[/I] will take you to the widgets.[CR]If no widgets are present, [I]right[/I] will switch blade."
-msgstr ""
+msgstr "Nawigacja odbywa się za pomocą górnego przycisku loga.[CR]Używając ustawień skóry może on być umieszczony w lewej lub środkowej części górnego ekranu.[CR][CR][B]Górny przycisk loga[/B][CR]Nawigację pomiędzy sekcjami (blades) wykonuje się za pośrednictwem klawiszy kierunkowych [I]lewo[/I] i [I]prawo[/I].[CR]Klikając w przycisk loga otworzymy sekcję skrótów u boku ekranu.{CR][CR][B]Menu lista[/B][CR]Jeżeli nie posiadamy, żadnych widżetów lub podmenu możemy wówczas nawigować pomiędzy sekcjami używając klawiszy kierunkowych [I]lewo[/I] i [I]prawo[/I] z list menu.[CR][CR][B]Widżety[/B][CR]Jeżeli podmenu jest dostępne [I]prawo[/I]z poziomu menu zabierze cię do nich.[CR]Klawisz kierunkowy [I]lewo[/I] z podmenu sprowadzi cię z powrotem do menu, a klawisz kierunkowy [I]prawo[/I] przeniesie cię do widżetów.[CR]Jeżeli nie ma widżetów, wówczas klawisz kierunkowy [I]prawo[/I] zmieni sekcję (blade)."
 
 msgctxt "#31239"
 msgid "Never show again"
@@ -345,14 +345,13 @@ msgctxt "#31403"
 msgid "Configure network and sharing settings, including:[CR][CR]* Proxy & DNS[CR]* Samba file sharing[CR]* UPNP server[CR]* Web server[CR]* External app control"
 msgstr "Konfiguracja sieci i ustawień udostępniania, a wśród nich:[CR][CR]* Proxy i DNS[CR]* Udostępnianie plików przez Samba[CR]* Serwer UPNP[CR]* Web Serwer[CR]* Zewnętrzna aplikacja sterująca"
 
-#, fuzzy
 msgctxt "#31404"
 msgid "Important system settings, including:[CR][CR]* Hardware[CR]* Power saving[CR]* Input devices[CR]* Master user locking"
-msgstr "Ważne ustawienia systemu, a wśród nich: [CR][CR]* Hardware[CR]* Oszczędzanie energii[CR]* Urządzenia wejścia[CR]* Zamykanie głównego użytkownika"
+msgstr "Ważne ustawienia systemu, a wśród nich: [CR][CR]* Sprzęt (Hardware)[CR]* Oszczędzanie energii[CR]* Urządzenia wejścia[CR]* Zamykanie głównego użytkownika"
 
 msgctxt "#31405"
 msgid "Manage user profiles, including:[CR][CR]* Creating profiles[CR]* Deleting profiles[CR]* Changing user settings"
-msgstr "Zarządzaj profilami użytkowników, a wśród nich:[CR][CR]*Utworzenie profilu[CR]*Usuwanie profilu[CR]* Zmiana ustawień użytkownika"
+msgstr "Zarządzaj profilami użytkowników, a wśród nich:[CR][CR]* Utworzenie profilu[CR]* Usuwanie profilu[CR]* Zmiana ustawień użytkownika"
 
 msgctxt "#31406"
 msgid "Change skin specific settings, including:[CR][CR]* Window backgrounds[CR]* Media view options[CR]* Image packs[CR]* Other misc. options"
@@ -360,7 +359,7 @@ msgstr "Zmiana szczegółowych ustawień skóry, a wśród nich:[CR][CR]* Tła o
 
 msgctxt "#31407"
 msgid "Configure PVR settings, including:[CR][CR]* Channels[CR]* Guide[CR]* Playback[CR]* Recordings[CR]* Reminders"
-msgstr "Konfiguracja ustawień PVR, a wśród nich:[CR][CR]*Kanały[CR]* Przewodnik programowy (Guide)[CR]* Odtwarzanie[CR]*Nagrywanie[CR]* Przypomnienia"
+msgstr "Konfiguracja ustawień PVR, a wśród nich:[CR][CR]* Kanały[CR]* Przewodnik programowy (Guide)[CR]* Odtwarzanie[CR]* Nagrywanie[CR]* Przypomnienia"
 
 msgctxt "#31408"
 msgid "Configure player settings, including:[CR][CR]* Library options[CR]* Hardware acceleration[CR]* Subtitles[CR]* DVD playback"
@@ -368,9 +367,8 @@ msgstr "Konfiguracja ustawień odtwarzania, a wśród nich:[CR][CR]* Ustawienia 
 
 msgctxt "#31409"
 msgid "Configure media settings, including:[CR][CR]* Library options[CR]* File management[CR]* Videos, music, pictures options"
-msgstr "Konfiguracja ustawień mediów, a wśród nich:[CR][CR]*Ustawienia biblioteki mediów[CR]* Zarządzanie plikami[CR]* Opcje video, muzyki, zdjęć"
+msgstr "Konfiguracja ustawień mediów, a wśród nich:[CR][CR]* Ustawienia biblioteki mediów[CR]* Zarządzanie plikami[CR]* Opcje video, muzyki, zdjęć"
 
-#, fuzzy
 msgctxt "#31410"
 msgid "Information on Kodi and your hardware, including:[CR][CR]* Storage[CR]* Network[CR]* Video[CR]* Hardware"
 msgstr "Informacje o Kodi i twoim sprzęcie, a wśród nich:[CR][CR]* Pojemność dyskowa[CR]* Sieć[CR]* Video[CR]* Sprzęt"
@@ -458,24 +456,19 @@ msgstr "Pokazuj ekran tytułowy"
 
 msgctxt "#31520"
 msgid "Show now playing video in the background"
-msgstr "Pokazuj odtwarzane video w tle"
+msgstr "Pokazuj teraz odtwarzane video w tle"
 
 msgctxt "#31521"
 msgid "Show music visualization in the background"
 msgstr "Pokazuj wizualizacje w tle podczas odtwarzania muzyki"
 
-#, fuzzy
 msgctxt "#31522"
 msgid "Show media specific fanart in the background"
-msgstr "Pokazuj konkretny media fanart w tle"
+msgstr "Pokazuj wybraną fototapetę jako tło"
 
 msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
 msgstr "Ukryj animacje padającego deszczu w tle"
-
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr "Nie łącz tła z fanart, wizualizacją, video"
 
 msgctxt "#31525"
 msgid "Select rating"
@@ -483,16 +476,15 @@ msgstr "Wybierz ocenę"
 
 msgctxt "#31526"
 msgid "Animate all fanart backgrounds"
-msgstr "Animuj wszystkie tła fanart"
+msgstr "Animuj wszystkie fototapety tła"
 
 msgctxt "#31527"
 msgid "Animate fanart backgrounds for music playing"
-msgstr "Animuj tła fanart podczas odtwarzania muzyki"
+msgstr "Animuj fototapety tła podczas odtwarzania muzyki"
 
-#, fuzzy
 msgctxt "#31528"
 msgid "Enable Artist Slideshow fanart backgrounds"
-msgstr "Włącz pokaz slajdów tła artystów"
+msgstr "Włącz pokaz slajdów fototapet artystów"
 
 msgctxt "#31529"
 msgid "Blur backgrounds"
@@ -500,7 +492,7 @@ msgstr "Matowe tła"
 
 msgctxt "#31530"
 msgid "Fanart only"
-msgstr "Tylko Fanart"
+msgstr "Tylko fototapety"
 
 msgctxt "#31531"
 msgid "Backgrounds only"
@@ -508,7 +500,7 @@ msgstr "Tylko tła"
 
 msgctxt "#31532"
 msgid "Fanart and backgrounds"
-msgstr "Fanart i tła"
+msgstr "Fototapety i tła"
 
 # empty strings from id 31533 to 31536
 msgctxt "#31537"
@@ -559,6 +551,10 @@ msgstr "Poziom ustawień"
 msgctxt "#31554"
 msgid "Autologin"
 msgstr "Logowanie automatyczne"
+
+#~ msgctxt "#31524"
+#~ msgid "Don't blend background with fanart,visualization,video"
+#~ msgstr "Nie łącz tła z fanart, wizualizacją, video"
 
 #~ msgctxt "#31021"
 #~ msgid "Current Temp"

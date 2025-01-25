@@ -467,10 +467,6 @@ msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
 msgstr "Sakri animaciju kišnih kapi u pozadini"
 
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr ""
-
 msgctxt "#31525"
 msgid "Select rating"
 msgstr ""

@@ -467,10 +467,6 @@ msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
 msgstr "Masquer l'animation Gouttes de pluie en arrière-plan"
 
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr "Ne pas mélanger l'arrière-plan avec les fanarts, les visualisations et les vidéos"
-
 msgctxt "#31525"
 msgid "Select rating"
 msgstr "Sélectionner une note"
@@ -552,6 +548,10 @@ msgstr "Niveau de paramétrage"
 msgctxt "#31554"
 msgid "Autologin"
 msgstr "Connexion auto."
+
+#~ msgctxt "#31524"
+#~ msgid "Don't blend background with fanart,visualization,video"
+#~ msgstr "Ne pas mélanger l'arrière-plan avec les fanarts, les visualisations et les vidéos"
 
 #~ msgctxt "#31551"
 #~ msgid "Window custom smart playlist shortcuts"

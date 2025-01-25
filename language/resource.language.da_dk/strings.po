@@ -470,10 +470,6 @@ msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
 msgstr "Skjul regndråbeanimation i baggrunden"
 
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr "Bland ikke baggrund med fankunst, visualisering, video"
-
 msgctxt "#31525"
 msgid "Select rating"
 msgstr "Vælg bedømmelse"
@@ -555,6 +551,10 @@ msgstr "Indstillingsniveau"
 msgctxt "#31554"
 msgid "Autologin"
 msgstr "Autologin"
+
+#~ msgctxt "#31524"
+#~ msgid "Don't blend background with fanart,visualization,video"
+#~ msgstr "Bland ikke baggrund med fankunst, visualisering, video"
 
 # empty strings from id 31012 to 31019
 #~ msgctxt "#31020"

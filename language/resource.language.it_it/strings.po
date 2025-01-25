@@ -470,10 +470,6 @@ msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
 msgstr "Nascondi animazione della goccia di pioggia sullo sfondo"
 
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr "Non fondere lo sfondo con fanart, visualizzazione, video"
-
 msgctxt "#31525"
 msgid "Select rating"
 msgstr "Seleziona valutazione"
@@ -555,6 +551,10 @@ msgstr "Livello impostazioni"
 msgctxt "#31554"
 msgid "Autologin"
 msgstr "Accesso automatico"
+
+#~ msgctxt "#31524"
+#~ msgid "Don't blend background with fanart,visualization,video"
+#~ msgstr "Non fondere lo sfondo con fanart, visualizzazione, video"
 
 # empty strings from id 31012 to 31019
 #~ msgctxt "#31020"

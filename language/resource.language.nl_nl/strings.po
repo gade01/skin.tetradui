@@ -466,10 +466,6 @@ msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
 msgstr "Verberg regen druppel animatie op de achtergrond"
 
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr "Meng de achtergrond niet met fanart,visualisatie en video"
-
 msgctxt "#31525"
 msgid "Select rating"
 msgstr ""
@@ -551,6 +547,10 @@ msgstr "Instellingsniveau"
 msgctxt "#31554"
 msgid "Autologin"
 msgstr "Automatisch inloggen"
+
+#~ msgctxt "#31524"
+#~ msgid "Don't blend background with fanart,visualization,video"
+#~ msgstr "Meng de achtergrond niet met fanart,visualisatie en video"
 
 #~ msgctxt "#31551"
 #~ msgid "Window custom smart playlist shortcuts"
